@@ -87,11 +87,11 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * TenNOODL: "Provable online CP/PARAFAC decomposition of a structured tensor via dictionary learning", in **NeurISP**, 2021, [Paper](https://dl.acm.org/doi/10.5555/3495724.3496695), [PDF](https://proceedings.neurips.cc/paper/2020/file/85b42dd8aae56e01379be5736db5b496-Paper.pdf), [Code](https://github.com/srambhatla/TensorNOODL)
 
-* SliceNStitch: "Slicenstitch: Continuous CP decomposition of sparse tensor streams", in **IEEE ICDE**, 2021, [Paper](https://arxiv.org/pdf/2102.11517.pdf), [Code](https://github.com/DMLab-Tensor/SliceNStitch)
+* SliceNStitch: "Slicenstitch: Continuous CP decomposition of sparse tensor streams", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/abstract/document/9458693), [PDF](https://arxiv.org/pdf/2102.11517.pdf), [Code](https://github.com/DMLab-Tensor/SliceNStitch)
 
-* STF: "Accurate online tensor factorization for temporal tensor streams with missing value", in **ACM CIKM**, 2021, [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482048), [Code](https://github.com/snudatalab/STF)
+* STF: "Accurate online tensor factorization for temporal tensor streams with missing value", in **ACM CIKM**, 2021, [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482048), [PDF](https://datalab.snu.ac.kr/~ukang/papers/stfCIKM21.pdf), [Code](https://github.com/snudatalab/STF)
   
-* ROLCP: "A Fast Randomized Adaptive CP Decomposition for Streaming Tensors", in **IEEE ICASSP**, 2021,  [Paper](https://ieeexplore.ieee.org/abstract/document/9413554), [Code](https://github.com/thanhtbt/ROLCP)
+* ROLCP: "A Fast Randomized Adaptive CP Decomposition for Streaming Tensors", in **IEEE ICASSP**, 2021,  [Paper](https://ieeexplore.ieee.org/abstract/document/9413554), [PDF](https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf), [Code](https://github.com/thanhtbt/ROLCP)
 
 * OnlineCPDL: "Online nonnegative CP-dictionary learning for Markovian data" in **J. Mach. Learn. Res.**, 2022,   [Paper](https://www.jmlr.org/papers/volume23/21-0419/21-0419.pdf), [Code](https://github.com/HanbaekLyu/OnlineCPDL)
    
