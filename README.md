@@ -70,6 +70,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * SPADE: "SPADE: Streaming PARAFAC2 decomposition for large datasets", in **SDM**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.65), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SPADE.zip)
 
+* DAO-CP: "DAO-CP: Data Adaptive Online CP Decomposition", in **Plus One**, 2021, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009670/pdf/pone.0267091.pdf), [Code](https://github.com/lucetre-snu/dao-cp)
 
 #### BCD + Adaptive Least-Squares Filters
 
