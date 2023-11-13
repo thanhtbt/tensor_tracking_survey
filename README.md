@@ -113,13 +113,15 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * BASS-Tucker: "Bayesian streaming sparse Tucker decomposition", in **UAI**, 2021, [Paper](https://proceedings.mlr.press/v161/fang21b.html), [Code](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)
 
-* RT-NTD and BK-NTD: " Incremental nonnegative tucker decomposition with block-coordinate descent and recursive approaches", in **Symmetry**, 2022, [Paper](https://www.mdpi.com/2073-8994/14/1/113)
+* RT-NTD and BK-NTD: " Incremental nonnegative tucker decomposition with block-coordinate descent and recursive approaches", in **Symmetry**, 2022, [Paper](https://www.mdpi.com/2073-8994/14/1/113), [Code](https://github.com/RafalZdunek/Incremental-NTD)
  
 * ATD: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [Code](https://github.com/thanhtbt/tensor_tracking)
 
 ### Multi-aspect Streaming Tucker Decomposition
 
+* SIITA: "Inductive Framework for Multi-Aspect Streaming Tensor Completion with Side Information", in **ACM CIKM**, 2018, [Paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271713), [Code](https://github.com/madhavcsa/SIITA)
 
+* eOTD: "eOTD: An efficient online tucker decomposition for higher order tensors", in **IEEE ICDM**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8594989)
 
 ## Citation
 If you find this repository helpful for your work, please cite
