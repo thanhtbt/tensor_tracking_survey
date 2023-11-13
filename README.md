@@ -185,7 +185,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * ROLTD: "Robust Online Tucker Dictionary Learning from Multidimensional Data Streams", in **APSIPA-ASC**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9980029), [Code](https://github.com/thanhtbt/ROTDL)
 
-*  D-TuckerO: "Static and Streaming Tucker Decomposition for Dense Tensors", in **ACM Trans. Knowl. Disc. Data**, 2022, [Paper](https://dl.acm.org/doi/10.1145/3568682), [PDF](https://datalab.snu.ac.kr/~ukang/papers/dtuckerTKDD23.pdf), [Code](https://datalab.snu.ac.kr/dtucker/)
+*  D-TuckerO: "Static and Streaming Tucker Decomposition for Dense Tensors", in **ACM Trans. Knowl. Disc. Data**, 2023, [Paper](https://dl.acm.org/doi/10.1145/3568682), [PDF](https://datalab.snu.ac.kr/~ukang/papers/dtuckerTKDD23.pdf), [Code](https://datalab.snu.ac.kr/dtucker/)
 
 ### Tensor Subspace Tracking 
 
