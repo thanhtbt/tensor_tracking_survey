@@ -79,13 +79,13 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * OLSTEC: "Online low-rank tensor subspace tracking from incomplete data by CP decomposition using recursive least squares", in **IEEE ICASSP**, 2016
 [Paper](https://ieeexplore.ieee.org/abstract/document/7472131), [PDF](https://arxiv.org/pdf/1602.07067.pdf), [Journal](https://arxiv.org/pdf/1709.10276.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC)
 
-* CP-NLS: "Nonlinear least squares updating of the canonical polyadic decomposition", in **EUSIPCO**, 2027 [Paper](https://ieeexplore.ieee.org/document/8081290)
+* CP-NLS: "Nonlinear least squares updating of the canonical polyadic decomposition", in **EUSIPCO**, 2017, [Paper](https://ieeexplore.ieee.org/document/8081290), [PDF](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570347577.pdf)
 
-* CP-stream: "Streaming tensor factorization for infinite data sources", in **SDM**, 2018, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.10), [Code](https://github.com/ShadenSmith/splatt)
+* CP-stream: "Streaming tensor factorization for infinite data sources", in **SDM**, 2018, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.10), [PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.10), [Code](https://github.com/ShadenSmith/splatt)
 
 * InParTen: "Incremental PARAFAC decomposition for three-dimensional tensors using Apache Spark", in **ICWE**, 2019, [Paper](https://link.springer.com/chapter/10.1007/978-3-030-19274-7_5)
 
-* TenNOODL: "Provable online CP/PARAFAC decomposition of a structured tensor via dictionary learning", in **NeurISP**, 2021. [Paper](https://proceedings.neurips.cc/paper/2020/file/85b42dd8aae56e01379be5736db5b496-Paper.pdf), [Code](https://github.com/srambhatla/TensorNOODL)
+* TenNOODL: "Provable online CP/PARAFAC decomposition of a structured tensor via dictionary learning", in **NeurISP**, 2021, [Paper](https://dl.acm.org/doi/10.5555/3495724.3496695), [PDF](https://proceedings.neurips.cc/paper/2020/file/85b42dd8aae56e01379be5736db5b496-Paper.pdf), [Code](https://github.com/srambhatla/TensorNOODL)
 
 * SliceNStitch: "Slicenstitch: Continuous CP decomposition of sparse tensor streams", in **IEEE ICDE**, 2021, [Paper](https://arxiv.org/pdf/2102.11517.pdf), [Code](https://github.com/DMLab-Tensor/SliceNStitch)
 
