@@ -15,7 +15,7 @@ Table of content
   * [Bayesian Inference](#bayesian-inference)
   * [Multi-aspect Streaming CP Decomposition](#multi-aspect-streaming-cp-decomposition)
   * [Streaming PARAFAC2 Decomposition](#streaming-parafac2-decomposition)
-- [[Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content)](#-dynamic-tensor-analysis-under-tucker-hosvd-format---content-)
+- [Dynamic Tensor Analysis Under Tucker/HOSVD Format](#dynamic-tensor-analysis-under-tucker-hosvd-format)
   * [Online Tensor Dictionary Learning](#online-tensor-dictionary-learning)
     + [Incremental Subspace Learning on Tensor Unfolding Matrices](#incremental-subspace-learning-on-tensor-unfolding-matrices)
     + [Online Multimodal Dictionary Learning](#online-multimodal-dictionary-learning)
