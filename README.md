@@ -71,14 +71,13 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * iCP-AM: "Incremental CP tensor decomposition by alternating minimization method", in **SIAM J. Matrix Anal. Appl**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/20M1319097) 
 
-
 * DAO-CP: "DAO-CP: Data Adaptive Online CP Decomposition", in **Plus One**, 2021, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009670/pdf/pone.0267091.pdf), [Code](https://github.com/lucetre-snu/dao-cp)
 
 #### BCD + Adaptive Least-Squares Filters
 
 
 * OLSTEC: "Online low-rank tensor subspace tracking from incomplete data by CP decomposition using recursive least squares", in **IEEE ICASSP**, 2016
-[Paper](https://ieeexplore.ieee.org/abstract/document/7472131), [Code](https://github.com/hiroyuki-kasai/OLSTEC)
+[Paper](https://ieeexplore.ieee.org/abstract/document/7472131), [PDF](https://arxiv.org/pdf/1602.07067.pdf), [Journal](https://arxiv.org/pdf/1709.10276.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC)
 
 * CP-NLS: "Nonlinear least squares updating of the canonical polyadic decomposition", in **EUSIPCO**, 2027 [Paper](https://ieeexplore.ieee.org/document/8081290)
 
