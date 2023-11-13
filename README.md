@@ -45,7 +45,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ![tensor_tracking](https://github.com/thanhtbt/tensor_tracking_survey/assets/26319211/6219b4d6-ce85-47ce-aa51-748661560a99)
 
 
-## Dynamic Tensor Analysis Under CP/PARAFAC Format
+## Dynamic Tensor Analysis Under CP/PARAFAC Format (#content)
 ### Subspace-based Methods 
 
 * PARAFAC-SDT/-RLS: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE Trans. Signal Process.**, 2009, [Paper](https://ieeexplore.ieee.org/document/4799120), [Code](http://dimitri.nion.free.fr/)
@@ -253,6 +253,8 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * TO-RPCA: "An online tensor robust PCA algorithm for sequential 2D data", in **IEEE ICASSP**, 2016, [Paper](https://ieeexplore.ieee.org/document/7472114)
   
 * TOUCAN: "Grassmannian optimization for online tensor completion and tracking with the t-svd", in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9756209), [Code](https://web.eecs.umich.edu/~girasole/?p=676)
+
+* "Effective streaming low-tubal-rank tensor approximation via frequent directions", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2022, [Paper](https://arxiv.org/pdf/2108.10129.pdf)
 
 ## Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format
 
