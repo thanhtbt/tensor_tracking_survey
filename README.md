@@ -209,6 +209,7 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 * Tensor, [Link](https://cran.r-project.org/web/packages/tensor/index.html)
 * rTensor, [Link](https://cran.r-project.org/web/packages/rTensor/index.html)
 * nnTensor, [Link](https://cran.r-project.org/web/packages/nnTensor/index.html)
+* TensorBF, [Link](https://cran.r-project.org/web/packages/tensorBF/index.html)
 
 ## Citation
 If you find this repository helpful for your work, please cite
