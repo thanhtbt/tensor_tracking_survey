@@ -189,6 +189,7 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 
 #### Tensor Toolbox
 
+* NwayToolbox, [Matlab](https://fr.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox)
 * TensorToolbox, [Matlab](https://www.tensortoolbox.org/)
 * Tensorlab, [Matlab](https://www.tensorlab.net/)
 * TensorBox, [Matlab](https://github.com/phananhhuy/TensorBox)
