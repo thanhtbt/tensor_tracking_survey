@@ -45,8 +45,8 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ![tensor_tracking](https://github.com/thanhtbt/tensor_tracking_survey/assets/26319211/6219b4d6-ce85-47ce-aa51-748661560a99)
 
 
-## Dynamic Tensor Analysis Under CP/PARAFAC Format (#content)
-### Subspace-based Methods 
+## Dynamic Tensor Analysis Under CP/PARAFAC Format 
+### Subspace-based Methods (#content)
 
 * PARAFAC-SDT/-RLS: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE Trans. Signal Process.**, 2009, [Paper](https://ieeexplore.ieee.org/document/4799120), [Code](http://dimitri.nion.free.fr/)
 
