@@ -132,7 +132,10 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * ATT: "A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations", in **Elsevier Signal Process.**, 2023, [Paper](https://www.sciencedirect.com/science/article/pii/S0165168423003717), [Code](https://github.com/thanhtbt/ATT-miss)
 
+* STTA: "Streaming tensor train approximation", in **SIAM J. Sci. Comput.**, 2023, [Paper](https://epubs.siam.org/doi/abs/10.1137/22M1515045)
 
+
+ 
 ## Citation
 If you find this repository helpful for your work, please cite
 
