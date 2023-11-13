@@ -9,7 +9,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ## Tensor Tracking under CP/PARAFAC format
 #### Subspace-based Method 
 
-* PARAFAC-SDT/-RLS: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE TSP** 2009, [\[paper\]](https://ieeexplore.ieee.org/document/4799120), [Matlab code](http://dimitri.nion.free.fr/)
+* PARAFAC-SDT/-RLS: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE TSP** 2009, [\[paper\]](https://ieeexplore.ieee.org/document/4799120), [\[Matlab code]\](http://dimitri.nion.free.fr/)
 
 
 
