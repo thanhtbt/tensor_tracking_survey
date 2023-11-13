@@ -164,7 +164,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ## Dynamic Tensor Analysis Under T-SVD Format
 
-
+* TO-RPCA: "An online tensor robust PCA algorithm for sequential 2D data", in **IEEE ICASSP**, 2016, [Paper](https://ieeexplore.ieee.org/document/7472114)
+  
+* TOUCAN: "Grassmannian optimization for online tensor completion and tracking with the t-svd", in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9756209), [Code](https://web.eecs.umich.edu/~girasole/?p=676)
 
 ## Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format
 
