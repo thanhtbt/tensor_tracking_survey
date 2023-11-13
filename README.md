@@ -82,9 +82,10 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * TenNOODL: "Provable online CP/PARAFAC decomposition of a structured tensor via dictionary learning", in **NeurISP**, 2021. [Paper](https://proceedings.neurips.cc/paper/2020/file/85b42dd8aae56e01379be5736db5b496-Paper.pdf), [Code](https://github.com/srambhatla/TensorNOODL)
 
 * SliceNStitch: "Slicenstitch: Continuous CP decomposition of sparse tensor streams", in **IEEE ICDE**, 2021, [Paper](https://arxiv.org/pdf/2102.11517.pdf), [Code](https://github.com/DMLab-Tensor/SliceNStitch)
+
+* STF: "Accurate online tensor factorization for temporal tensor streams with missing value", in **ACM CIKM**, 2021, [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482048), [Code](https://github.com/snudatalab/STF)
   
 * ROLCP: "A Fast Randomized Adaptive CP Decomposition for Streaming Tensors", in **IEEE ICASSP**, 2021,  [Paper](https://ieeexplore.ieee.org/abstract/document/9413554), [Code](https://github.com/thanhtbt/ROLCP)
-
  
 * RACP: "Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis" in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9866940) [Code](https://github.com/thanhtbt/tensor_tracking)
   
