@@ -11,6 +11,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * PARAFAC-SDT/-RLS: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE TSP** 2009, [\[paper\]](https://ieeexplore.ieee.org/document/4799120), [\[Matlab code]\](http://dimitri.nion.free.fr/)
 
+* 3D-OPAST: ``Fast adaptive PARAFAC decomposition algorithm with linear complexity", in **IEEE ICASSP** 2016, [\[paper\]](https://ieeexplore.ieee.org/document/7472876) 
 
 
 ## Reference
