@@ -54,9 +54,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * PARAFAC-SDT/-RLS: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE Trans. Signal Process.**, 2009, [Paper](https://ieeexplore.ieee.org/document/4799120), [PDF](https://www.ece.umn.edu/~nikos/AdaptivePARAFAC.pdf), [Code](http://dimitri.nion.free.fr/)
 
-* 3D-OPAST: ``Fast adaptive PARAFAC decomposition algorithm with linear complexity", in **IEEE ICASSP**, 2016, [Paper](https://ieeexplore.ieee.org/document/7472876)
+* 3D-OPAST: ``Fast adaptive PARAFAC decomposition algorithm with linear complexity", in **IEEE ICASSP**, 2016, [Paper](https://ieeexplore.ieee.org/document/7472876), [PDF](https://inria.hal.science/hal-01306461/file/3DOPASTLinear.pdf)
 
-* CP-PETRELS: ``Adaptive PARAFAC decomposition for third-order tensor completion", in **IEEE ICCE**, 2016, [Paper](https://ieeexplore.ieee.org/document/7562652)
+* CP-PETRELS: ``Adaptive PARAFAC decomposition for third-order tensor completion", in **IEEE ICCE**, 2016, [Paper](https://ieeexplore.ieee.org/document/7562652), [PDF](http://eprints.uet.vnu.edu.vn/eprints/id/document/560)
 
 * SOAP: "Second-order optimization based adaptive PARAFAC decomposition of three-way tensors", in **Elsevier DSP**, 2017, [Paper](https://www.sciencedirect.com/science/article/pii/S105120041730009X), [Code](https://drive.google.com/drive/folders/1x6PdEsr-1xDccm7titi5dQPLwgcKuOii)
 
