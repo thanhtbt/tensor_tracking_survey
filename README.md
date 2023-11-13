@@ -4,7 +4,7 @@
 ## Survey Paper
 [*A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition*](https://ieeexplore.ieee.org/document/9994046)
 
-Authors: L.T. Thanh, K. Abed-Meraim, N. L. Trung and A. Hafiane
+Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ## Reference
 If you find this repository helpful for your work, please cite
