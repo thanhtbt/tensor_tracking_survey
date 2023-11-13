@@ -126,12 +126,20 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ## Dynamic Tensor Analysis Under Tensor-Train Format
 
-* DTT: "Dynamical approximation by hierarchical Tucker and tensor-train tensors", in **SIAM J. Matrix Anal. Appl.**, 2013, [Paper](https://epubs.siam.org/doi/abs/10.1137/120885723)
+### Dynamic Tensor-Train Decomposition of Time-series Tensor with Fix-Size (non-streaming)
 
+* DATT: "Dynamical approximation by hierarchical Tucker and tensor-train tensors", in **SIAM J. Matrix Anal. Appl.**, 2013, [Paper](https://epubs.siam.org/doi/abs/10.1137/120885723)
+
+* STTA: "Streaming tensor train approximation", in **SIAM J. Sci. Comput.**, 2023, [Paper](https://epubs.siam.org/doi/abs/10.1137/22M1515045), [Code](https://github.com/RikVoorhaar/tt-sketch)
   
+### Incremental Tensor-Train Decomposition of Streaming Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)
+
 * ITTD: "An incremental tensor-train decomposition for cyber-physical-social big data", in **IEEE Trans. Big Data**, 2018,  [Paper](https://ieeexplore.ieee.org/abstract/document/8449102)
 
-  
+* DTT: "DTT: A highly efficient distributed tensortrain decomposition method for IIoT big data", in **IEEE Trans. Ind. Inf**, 2021, [Paper](https://ieeexplore.ieee.org/document/8963751)
+
+ ### Streaming Tensor-Train Decomposition of Streaming Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)
+
 * TT-FOA: "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors", in **EUSIPCO**, 2020,  [Paper](https://ieeexplore.ieee.org/document/9287780), [Code](https://github.com/thanhtbt/ATT)
 
 * ROBOT: "Robust Tensor Tracking With Missing Data Under Tensor-Train Format", in **EUSIPCO**, 2022,  [Paper](https://ieeexplore.ieee.org/document/9287780), [Code](https://github.com/thanhtbt/ROBOT)
@@ -140,7 +148,6 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 * ATT: "A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations", in **Elsevier Signal Process.**, 2023, [Paper](https://www.sciencedirect.com/science/article/pii/S0165168423003717), [Code](https://github.com/thanhtbt/ATT-miss)
 
-* STTA: "Streaming tensor train approximation", in **SIAM J. Sci. Comput.**, 2023, [Paper](https://epubs.siam.org/doi/abs/10.1137/22M1515045)
 
 
 
