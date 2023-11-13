@@ -124,13 +124,13 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * MASTA: "Multi-aspect-streaming tensor analysis", in **Knowl.-Based Syst.**, 2015, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002671), [PDF](https://repositorio.inesctec.pt/server/api/core/bitstreams/ca4786ca-278c-417a-8bbc-7f00b511ecfd/content), [Code](https://github.com/fanaee/MASTA/blob/main/MASTA.zip)
 
-* MAST: "Multi-aspect streaming tensor completion", in **ACM SIGKDD**, 2017, [Paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3098007), [Code](https://github.com/xuangu-fang/Streaming-Bayesian-Deep-Tensor) 
+* MAST: "Multi-aspect streaming tensor completion", in **ACM SIGKDD**, 2017, [Paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3098007), [PDF](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p435.pdf), [Code](https://github.com/xuangu-fang/Streaming-Bayesian-Deep-Tensor) 
 
-* OR-MSTC: "Outlier-Robust Multi-Aspect Streaming Tensor Completion and Factorization", in **IJCAI**, 2019, [Paper](https://www.ijcai.org/proceedings/2019/442) 
+* OR-MSTC: "Outlier-Robust Multi-Aspect Streaming Tensor Completion and Factorization", in **IJCAI**, 2019, [Paper](https://www.ijcai.org/proceedings/2019/442), [PDF](https://www.researchgate.net/profile/Lifang-He/publication/334843950_Outlier-Robust_Multi-Aspect_Streaming_Tensor_Completion_and_Factorization/links/5e1ff98b458515ba208a85c8/Outlier-Robust-Multi-Aspect-Streaming-Tensor-Completion-and-Factorization.pdf)
 
 * InParTen2:  "Multi-aspect incremental tensor decomposition based on distributed in-memory big data systems", in **J. Data Inf. Sci.**, 2020, [Paper](https://www.ijcai.org/proceedings/2019/442)
   
-* DisMASTD: "Dismastd: An efficient distributed multi-aspect streaming tensor decomposition", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9458848)
+* DisMASTD: "Dismastd: An efficient distributed multi-aspect streaming tensor decomposition", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9458848), [PDF](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7127&context=sis_research)
 
 ### [Streaming PARAFAC2 Decomposition](#content) 
 
