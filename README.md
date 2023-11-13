@@ -189,8 +189,9 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 
 #### Tensor Toolbox
 
-* 
-
+* Tensor Toolbox for MATLAB [Link](https://www.tensortoolbox.org/)
+* TensorBox [Link](https://tensorbox.ai/)
+* Tensor-Tensor Product Toolbox [Link](https://github.com/canyilu/Tensor-tensor-product-toolbox/)
  
 ## Citation
 If you find this repository helpful for your work, please cite
