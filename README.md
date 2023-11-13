@@ -67,7 +67,8 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ## Tracking under Tucker/HOSVD format
 
 ### Online Tensor Dictionary Learning
-
+#### Incremental Subspace Learning on Tensor Unfolding Matrices
+#### Online Multimodal Dictionary Learning
 
 ### Tensor Subspace Tracking 
 
