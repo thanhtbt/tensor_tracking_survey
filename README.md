@@ -1,5 +1,6 @@
 ## Tensor Tracking, Streaming/Online/Adaptive Tensor Decomposition, Dynamic Tensor Analysis
-[On going] A list of up-to-date papers on streaming tensor decomposition, tensor tracking, dynamic tensor decomposition
+[On going] A list of up-to-date papers on streaming tensor decomposition, tensor tracking, and dynamic tensor decomposition.
+
 
 
 
