@@ -273,16 +273,15 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ### [Good Surveys of (Batch) Tensor  Decomposition and Analysis](#content) 
 
 * Evrim Acar et al. *"Unsupervised multiway data analysis: A literature survey"*, in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
-* Tamara G.Kolda et al. *"Tensor decompositions and applications"*, in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
-* *"Breaking the curse of dimensionality using decompositions of incomplete tensors: Tensor-based scientific computing in
+* Tamara G. Kolda et al. *"Tensor decompositions and applications"*, in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
+* Lieven De Lathauwer et al. *"Breaking the curse of dimensionality using decompositions of incomplete tensors: Tensor-based scientific computing in
 big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://ieeexplore.ieee.org/document/6879619)
-* *"Tensor decompositions for signal processing applications: From two-way to multiway component analysis"*, in **IEEE Signal Process. Mag.**, 2015, [Paper](https://ieeexplore.ieee.org/abstract/document/7038247)
-* *"Tensor networks for dimensionality reduction and large-scale optimization: Part 1 low-rank tensor decompositions"*, in **Found. Trends Mach. Learn.**, 2016, [Paper](https://www.nowpublishers.com/article/Details/MAL-059)
-* *"Tensor networks for dimensionality reduction and large-scale optimization: Part 2 Applications and future perspectives"*, in **Found. Trends Mach. Learn.**, 2017, [Paper](https://www.nowpublishers.com/article/Details/MAL-067)
-* *"Tensor Decomposition for Signal Processing and Machine Learning"*, in **IEEE Trans. Signal Process.**, 2017, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7891546)
-* *"Tensors for data mining and data fusion: Models, applications, and scalable algorithms"*, in **ACM Trans. Intell. Syst. Technol**, 2017, [Paper](https://dl.acm.org/doi/10.1145/2915921)
-* *"Tensor completion algorithms in big data analytics"*, in **ACM Trans. Knowl. Disc. Data**, 2019, [Paper](https://dl.acm.org/doi/pdf/10.1145/3278607)
-* *"Tensor methods in computer vision and deep learning"*, in **Proc. IEEE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9420085)
+* Andrzej Cichocki & Lieven De Lathauwer et al. *"Tensor decompositions for signal processing applications: From two-way to multiway component analysis"*, in **IEEE Signal Process. Mag.**, 2015, [Paper](https://ieeexplore.ieee.org/abstract/document/7038247)
+* Andrzej Cichocki et al. *"Tensor networks for dimensionality reduction and large-scale optimization: Part 1 low-rank tensor decompositions"*, in **Found. Trends Mach. Learn.**, 2016, [Paper](https://www.nowpublishers.com/article/Details/MAL-059)
+* Andrzej Cichocki et al. *"Tensor networks for dimensionality reduction and large-scale optimization: Part 2 Applications and future perspectives"*, in **Found. Trends Mach. Learn.**, 2017, [Paper](https://www.nowpublishers.com/article/Details/MAL-067)
+* Nicholas D. Sidiropoulos & Lieven De Lathauwer  et al. *"Tensor Decomposition for Signal Processing and Machine Learning"*, in **IEEE Trans. Signal Process.**, 2017, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7891546)
+* Nicholas D. Sidiropoulos et al. *"Tensors for data mining and data fusion: Models, applications, and scalable algorithms"*, in **ACM Trans. Intell. Syst. Technol**, 2017, [Paper](https://dl.acm.org/doi/10.1145/2915921)
+* Yannis Panagakis et al. *"Tensor methods in computer vision and deep learning"*, in **Proc. IEEE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9420085)
 
 
 ### [Tensor Toolbox and Software](#content) 
