@@ -133,13 +133,13 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * DATT: "Time integration of tensor trains", in **SIAM J. Numer. Anal.**, 2015, [Paper](https://epubs.siam.org/doi/abs/10.1137/140976546)
 
 
-### Incremental Tensor-Train Decomposition of Streaming Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)
+### Incremental Decomposition of Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)
 
 * ITTD: "An incremental tensor-train decomposition for cyber-physical-social big data", in **IEEE Trans. Big Data**, 2018,  [Paper](https://ieeexplore.ieee.org/abstract/document/8449102)
 
 * DTT: "DTT: A highly efficient distributed tensortrain decomposition method for IIoT big data", in **IEEE Trans. Ind. Inf**, 2021, [Paper](https://ieeexplore.ieee.org/document/8963751)
 
- ### Streaming Tensor-Train Decomposition of Streaming Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)
+ ### Streaming Decomposition of Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)
 
 * TT-FOA: "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors", in **EUSIPCO**, 2020,  [Paper](https://ieeexplore.ieee.org/document/9287780), [Code](https://github.com/thanhtbt/ATT)
 
