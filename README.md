@@ -195,7 +195,10 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 * TensorBox, [Matlab](https://github.com/phananhhuy/TensorBox)
 * Tensor-Tensor Product Toolbox, [Matlab](https://github.com/canyilu/Tensor-tensor-product-toolbox/)
 * TT-Toolbox, [Matlab](https://github.com/oseledets/TT-Toolbox), [Python](https://github.com/oseledets/ttpy)
- 
+* Pyttb toolbox, [Python](https://github.com/sandialabs/pyttb)
+  
+
+
 ## Citation
 If you find this repository helpful for your work, please cite
 
