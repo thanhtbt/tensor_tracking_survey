@@ -22,7 +22,11 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 #### Block-Coordinate Descent
 
-* TeCPSGD: "Subspace Learning and Imputation for Streaming Big Data Matrices and Tensors" in **IEEE TSP**, 2015, [Paper](https://ieeexplore.ieee.org/document/7072498), [Code](https://github.com/thanhtbt/ROLCP/tree/main/Algorithms/TeCPSGD(2015))
+* TeCPSGD: "Subspace Learning and Imputation for Streaming Big Data Matrices and Tensors" in **IEEE TSP**, 2015, [Paper](https://ieeexplore.ieee.org/document/7072498), [Code](https://github.com/hiroyuki-kasai/OLSTEC/tree/master/benchmark/TeCPSGD)
+
+* OLCP: "Accelerating Online CP Decompositions for Higher Order Tensors" in **ACM SIGKDD**, 2016, [Paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939763), [Code](https://shuozhou.github.io/)
+
+* OLSTEC
 
 ## Reference
 If you find this repository helpful for your work, please cite
