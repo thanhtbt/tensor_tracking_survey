@@ -85,6 +85,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * MDHOSVD: "  A multi-order distributed HOSVD with its incremental computing for big services in cyber-physical-social systems", in **IEEE Trans. Big Data**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8333789)
 
+* IMDHOSVD: "Improved multi-order distributed HOSVD with its incremental computing for smart city services", in **IEEE Trans. Sustainable Comput.**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8536482)
+
+  
 
 #### Online Multimodal Dictionary Learning
 
