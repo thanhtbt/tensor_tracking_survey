@@ -213,6 +213,8 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 
 #### Julia
 * TensorDecomp, [Link](https://github.com/yunjhongwu/TensorDecompositions.jl)
+* Tensortoolbox, [Link](https://github.com/lanaperisa/TensorToolbox.jl)
+* iTensor, [Link](https://scipost.org/10.21468/SciPostPhysCodeb.4)
 
 ## Citation
 If you find this repository helpful for your work, please cite
