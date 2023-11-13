@@ -105,10 +105,17 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * ROLTD: "Robust Online Tucker Dictionary Learning from Multidimensional Data Streams", in **APSIPA-ASC**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9980029), [Code](https://github.com/thanhtbt/ROTDL)
 
 
-
-
 ### Tensor Subspace Tracking 
 
+* LRUT: "Accelerated low-rank updates to tensor decompositions", in **IEEE HPEC**, 2016, [Paper](https://ieeexplore.ieee.org/abstract/document/7761607)
+
+* Riemannian-based method: "Low-rank tensor completion: a Riemannian manifold preconditioning approach", in **ICML**, 2016, [Paper](https://proceedings.mlr.press/v48/kasai16.html), [Code](https://bamdevmishra.in/codes/tensorcompletion/)
+
+* BASS-Tucker: "Bayesian streaming sparse Tucker decomposition", in **UAI**, 2021, [Paper](https://proceedings.mlr.press/v161/fang21b.html), [Code](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)
+
+* RT-NTD and BK-NTD: " Incremental nonnegative tucker decomposition with block-coordinate descent and recursive approaches", in **Symmetry**, 2022, [Paper](https://www.mdpi.com/2073-8994/14/1/113)
+ 
+* ATD: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [Code](https://github.com/thanhtbt/tensor_tracking)
 
 ### Multi-aspect Streaming Tucker Decomposition
 
