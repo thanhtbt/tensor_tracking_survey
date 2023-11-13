@@ -73,9 +73,14 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * IRTSA: "Robust visual tracking based on incremental tensor subspace learning", in **IEEE ICCV**, 2007, [Paper](https://ieeexplore.ieee.org/abstract/document/4408950), [M-Code](https://www.cs.toronto.edu/~dross/ivt/), [P-Code](https://github.com/matkovst/IncrementalVisualTracker-python)
 
+* RTSL: "A tensor-based approach for big data representation and dimensionality reduction", in **Int. J. Mach. Learn. Cybern**, 2011, [Paper](https://link.springer.com/article/10.1007/s13042-011-0017-0)
+
+  
 * ITF: "An incremental tensor factorization approach for web service recommendation", in **IEEE ICDM Works**, 2014,  [Paper](https://ieeexplore.ieee.org/abstract/document/7022617)
 
 * IHOSVD: "A tensor-based approach for big data representation and dimensionality reduction", in **IEEE Trans. Emerg. Topics Comput.**, 2014,  [Paper](https://ieeexplore.ieee.org/abstract/document/6832490)
+
+
 
 #### Online Multimodal Dictionary Learning
 
