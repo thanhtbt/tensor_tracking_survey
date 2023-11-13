@@ -3,6 +3,37 @@
 
 I will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue, make a pull request, or contact me via thanhle88.tbt@gmail.com.
 
+- [Survey Paper](#survey-paper)
+- [Dynamic Tensor Analysis Under CP/PARAFAC Format](#dynamic-tensor-analysis-under-cp-parafac-format)
+  * [Subspace-based Methods](#subspace-based-methods)
+  * [Block-Coordinate Descent](#block-coordinate-descent)
+  * [Bayesian Inference](#bayesian-inference)
+  * [Multi-aspect Streaming CP Decomposition](#multi-aspect-streaming-cp-decomposition)
+- [Dynamic Tensor Analysis under Tucker/HOSVD format](#dynamic-tensor-analysis-under-tucker-hosvd-format)
+  * [Online Tensor Dictionary Learning](#online-tensor-dictionary-learning)
+    + [Incremental Subspace Learning on Tensor Unfolding Matrices](#incremental-subspace-learning-on-tensor-unfolding-matrices)
+    + [Online Multimodal Dictionary Learning](#online-multimodal-dictionary-learning)
+  * [Tensor Subspace Tracking](#tensor-subspace-tracking)
+  * [Multi-aspect Streaming Tucker Decomposition](#multi-aspect-streaming-tucker-decomposition)
+- [Dynamic Tensor Analysis Under Tensor-Train Format](#dynamic-tensor-analysis-under-tensor-train-format)
+  * [Dynamic Decomposition of Time-series Tensors with Fix-Size (Non-Streaming)](#dynamic-decomposition-of-time-series-tensors-with-fix-size--non-streaming-)
+  * [Incremental Decomposition of Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)](#incremental-decomposition-of-tensors-in-stationary-environments--ie--tt-cores-are-fixed-over-time-)
+  * [Streaming Decomposition of Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)](#streaming-decomposition-of-tensors-in-non-stationary-environments--ie--tt-cores-can-change-over-time-)
+- [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#dynamic-tensor-analysis-under-block-term-decomposition-format)
+- [Dynamic Tensor Analysis Under T-SVD Format](#dynamic-tensor-analysis-under-t-svd-format)
+- [Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format](#dynamic-tensor-analysis-under-tensor-ring-tensor-network-format)
+- [Related Sources](#related-sources)
+  * [Good Surveys of (Batch) Tensor  Decomposition and Analysis](#good-surveys-of--batch--tensor--decomposition-and-analysis)
+  * [Tensor Toolbox and Software](#tensor-toolbox-and-software)
+    + [MATLAB](#matlab)
+    + [Python](#python)
+    + [R](#r)
+    + [Julia](#julia)
+- [Citation](#citation)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
+
+
 
 ## Survey Paper
 [*A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition*](https://ieeexplore.ieee.org/document/9994046) [PDF](https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf)
