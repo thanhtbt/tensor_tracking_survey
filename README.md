@@ -124,6 +124,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 * DisMASTD: "Dismastd: An efficient distributed multi-aspect streaming tensor decomposition", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9458848)
 
+### Streaming PARAFAC2 Decomposition
+* DASH: "Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application", in **ACM SIGKDD**, 2023, [Paper](https://arxiv.org/pdf/2305.18376.pdf), [Code](https://github.com/snudatalab/Dash)
+
 
 ## Dynamic Tensor Analysis under Tucker/HOSVD format
 
