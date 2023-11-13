@@ -45,6 +45,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 * ACP: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [Code](https://github.com/thanhtbt/tensor_tracking)
 
+#### Bayesian Inference
+
+
 
 ## Reference
 If you find this repository helpful for your work, please cite
