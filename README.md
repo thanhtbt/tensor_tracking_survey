@@ -53,7 +53,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * SBDT: "Streaming Bayesian deep tensor factorization", in **ICML**, 2021, [Paper](https://proceedings.mlr.press/v139/fang21d/fang21d.pdf), [Code](https://github.com/xuangu-fang/Streaming-Bayesian-Deep-Tensor)
 
-#### Multi-aspect Streaming CP Decomposition
+### Multi-aspect Streaming CP Decomposition
 
 * MAST: "Multi-aspect streaming tensor completion", in **ACM SIGKDD**, 2017, [Paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3098007), [Code](https://github.com/xuangu-fang/Streaming-Bayesian-Deep-Tensor) 
 
@@ -72,6 +72,8 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * DTA and STA: "Beyond streams and graphs: dynamic tensor analysis", in **ACM SIGKDD**, 2007, [Paper](https://dl.acm.org/doi/abs/10.1145/1150402.1150445), [Code](https://www.sunlab.org/software)
 
 * IRTSA: "Robust visual tracking based on incremental tensor subspace learning", in **IEEE ICCV**, 2007, [Paper](https://ieeexplore.ieee.org/abstract/document/4408950), [M-Code](https://www.cs.toronto.edu/~dross/ivt/), [P-Code](https://github.com/matkovst/IncrementalVisualTracker-python)
+
+* "An incremental tensor factorization approach for web service recommendation", in **IEEE ICDM Works**, 2014,  [Paper](https://ieeexplore.ieee.org/abstract/document/7022617)
 
 #### Online Multimodal Dictionary Learning
 
