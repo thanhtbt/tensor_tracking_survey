@@ -143,6 +143,15 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * STTA: "Streaming tensor train approximation", in **SIAM J. Sci. Comput.**, 2023, [Paper](https://epubs.siam.org/doi/abs/10.1137/22M1515045)
 
 
+
+## Dynamic Tensor Analysis Under Block-Term Decomposition Format
+
+
+## Dynamic Tensor Analysis Under T-SVD Format
+
+
+## Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format
+
  
 ## Citation
 If you find this repository helpful for your work, please cite
