@@ -119,7 +119,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * OR-MSTC: "Outlier-Robust Multi-Aspect Streaming Tensor Completion and Factorization", in **IJCAI**, 2019, [Paper](https://www.ijcai.org/proceedings/2019/442) 
 
-* InParTen2:  "Multi-aspect incremental tensor decomposition based on distributed in-memory big data systems", in **J.Data Inf. Sci.**, 2020, [Paper](https://www.ijcai.org/proceedings/2019/442)
+* InParTen2:  "Multi-aspect incremental tensor decomposition based on distributed in-memory big data systems", in **J. Data Inf. Sci.**, 2020, [Paper](https://www.ijcai.org/proceedings/2019/442)
   
 * DisMASTD: "Dismastd: An efficient distributed multi-aspect streaming tensor decomposition", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9458848)
 
