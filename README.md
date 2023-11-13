@@ -211,6 +211,9 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 * nnTensor, [Link](https://cran.r-project.org/web/packages/nnTensor/index.html)
 * TensorBF, [Link](https://cran.r-project.org/web/packages/tensorBF/index.html)
 
+#### Julia
+* TensorDecomp, [Link](https://github.com/yunjhongwu/TensorDecompositions.jl)
+
 ## Citation
 If you find this repository helpful for your work, please cite
 
