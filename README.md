@@ -134,13 +134,13 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ### [Streaming PARAFAC2 Decomposition](#content) 
 
-* SPADE: "SPADE: Streaming PARAFAC2 decomposition for large datasets", in **SDM**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.65), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SPADE.zip)
+* SPADE: "SPADE: Streaming PARAFAC2 decomposition for large datasets", in **SDM**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.65), [PDF](https://madlab.cs.ucr.edu/papers/2020_SDM_SPADE.pdf), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SPADE.zip)
 
-* Dpar2: "Dpar2: Fast and scalable parafac2 decomposition for irregular dense tensors", in **IEEE ICDE**, 2022, [Paper](https://arxiv.org/pdf/2203.12798.pdf), [Code](https://datalab.snu.ac.kr/dpar2/)
+* Dpar2: "Dpar2: Fast and scalable parafac2 decomposition for irregular dense tensors", in **IEEE ICDE**, 2022, [Paper](https://ieeexplore.ieee.org/document/9835294), [PDF](https://arxiv.org/pdf/2203.12798.pdf), [Code](https://datalab.snu.ac.kr/dpar2/)
 
-* ATOM: "Accurate PARAFAC2 Decomposition for Temporal Irregular Tensors with Missing Values", in **IEEE BigData**, 2022, [Paper](https://jungijang.github.io/resources/2022/BigData/atom.pdf), [Code](https://datalab.snu.ac.kr/atom/)
+* ATOM: "Accurate PARAFAC2 Decomposition for Temporal Irregular Tensors with Missing Values", in **IEEE BigData**, 2022, [Paper](https://ieeexplore.ieee.org/document/10020667), [PDF](https://jungijang.github.io/resources/2022/BigData/atom.pdf), [Code](https://datalab.snu.ac.kr/atom/)
   
-* DASH: "Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application", in **ACM SIGKDD**, 2023, [Paper](https://arxiv.org/pdf/2305.18376.pdf), [Code](https://github.com/snudatalab/Dash)
+* DASH: "Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application", in **ACM SIGKDD**, 2023, [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599342), [PDF](https://arxiv.org/pdf/2305.18376.pdf), [Code](https://github.com/snudatalab/Dash)
 
 * tPFARAC2: "A Time-aware tensor decomposition for tracking evolving patterns", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2308.07126.pdf), [Code](https://github.com/cchatzis/tPARAFAC2)
 
