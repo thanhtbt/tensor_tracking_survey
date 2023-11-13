@@ -149,7 +149,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ### [Online Tensor Dictionary Learning](#content) 
 #### Incremental Subspace Learning on Tensor Unfolding Matrices
 
-* DTA and STA: "Beyond streams and graphs: dynamic tensor analysis", in **ACM SIGKDD**, 2007, [Paper](https://dl.acm.org/doi/abs/10.1145/1150402.1150445), [Code](https://www.sunlab.org/software)
+* DTA and STA: "Beyond streams and graphs: dynamic tensor analysis", in **ACM SIGKDD**, 2007, [Paper](https://dl.acm.org/doi/abs/10.1145/1150402.1150445), [PDF](https://www.cs.cmu.edu/~christos/PUBLICATIONS/kdd06DTA.pdf), [TKDD](https://doi.org/10.1145/1409620.1409621), [Code](https://www.sunlab.org/software)
 
 * IRTSA: "Robust visual tracking based on incremental tensor subspace learning", in **IEEE ICCV**, 2007, [Paper](https://ieeexplore.ieee.org/abstract/document/4408950), [M-Code](https://www.cs.toronto.edu/~dross/ivt/), [P-Code](https://github.com/matkovst/IncrementalVisualTracker-python)
 
