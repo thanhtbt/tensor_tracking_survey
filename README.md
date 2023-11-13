@@ -5,26 +5,30 @@ P/S: *I will continue to update this list with the newest resources. If you find
 
 Table of content
 
-- [Survey Paper](#survey-paper)
-- [Dynamic Tensor Analysis Under CP/PARAFAC Format](#dynamic-tensor-analysis-under-cp-parafac-format)
+- [[Survey Paper](#content)](#-survey-paper---content-)
+- [[Dynamic Tensor Analysis Under CP/PARAFAC Format](#content)](#-dynamic-tensor-analysis-under-cp-parafac-format---content-)
   * [Subspace-based Methods](#subspace-based-methods)
-  * [Block-Coordinate Descent](#block-coordinate-descent)
+  * [Block-Coordinate Descent (BCD)](#block-coordinate-descent--bcd-)
+    + [BCD + Stochastic Gradient Solvers](#bcd---stochastic-gradient-solvers)
+    + [BCD + Adaptive Least-Squares Filters](#bcd---adaptive-least-squares-filters)
+    + [BCD + ADMM](#bcd---admm)
   * [Bayesian Inference](#bayesian-inference)
   * [Multi-aspect Streaming CP Decomposition](#multi-aspect-streaming-cp-decomposition)
-- [Dynamic Tensor Analysis under Tucker/HOSVD format](#dynamic-tensor-analysis-under-tucker-hosvd-format)
+  * [Streaming PARAFAC2 Decomposition](#streaming-parafac2-decomposition)
+- [[Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content)](#-dynamic-tensor-analysis-under-tucker-hosvd-format---content-)
   * [Online Tensor Dictionary Learning](#online-tensor-dictionary-learning)
     + [Incremental Subspace Learning on Tensor Unfolding Matrices](#incremental-subspace-learning-on-tensor-unfolding-matrices)
     + [Online Multimodal Dictionary Learning](#online-multimodal-dictionary-learning)
   * [Tensor Subspace Tracking](#tensor-subspace-tracking)
   * [Multi-aspect Streaming Tucker Decomposition](#multi-aspect-streaming-tucker-decomposition)
-- [Dynamic Tensor Analysis Under Tensor-Train Format](#dynamic-tensor-analysis-under-tensor-train-format)
+- [[Dynamic Tensor Analysis Under Tensor-Train Format](#content)](#-dynamic-tensor-analysis-under-tensor-train-format---content-)
   * [Dynamic Decomposition of Time-series Tensors with Fix-Size (Non-Streaming)](#dynamic-decomposition-of-time-series-tensors-with-fix-size--non-streaming-)
   * [Incremental Decomposition of Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)](#incremental-decomposition-of-tensors-in-stationary-environments--ie--tt-cores-are-fixed-over-time-)
   * [Streaming Decomposition of Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)](#streaming-decomposition-of-tensors-in-non-stationary-environments--ie--tt-cores-can-change-over-time-)
-- [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#dynamic-tensor-analysis-under-block-term-decomposition-format)
-- [Dynamic Tensor Analysis Under T-SVD Format](#dynamic-tensor-analysis-under-t-svd-format)
-- [Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format](#dynamic-tensor-analysis-under-tensor-ring-tensor-network-format)
-- [Related Sources](#related-sources)
+- [[Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content)](#-dynamic-tensor-analysis-under-block-term-decomposition-format---content-)
+- [[Dynamic Tensor Analysis Under T-SVD Format](#content)](#-dynamic-tensor-analysis-under-t-svd-format---content-)
+- [[Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format](#content)](#-dynamic-tensor-analysis-under-tensor-ring-tensor-network-format---content-)
+- [[Related Sources](#content)](#-related-sources---content-)
   * [Good Surveys of (Batch) Tensor  Decomposition and Analysis](#good-surveys-of--batch--tensor--decomposition-and-analysis)
   * [Tensor Toolbox and Software](#tensor-toolbox-and-software)
     + [MATLAB](#matlab)
@@ -32,6 +36,7 @@ Table of content
     + [R](#r)
     + [Julia](#julia)
 - [Citation](#citation)
+
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
