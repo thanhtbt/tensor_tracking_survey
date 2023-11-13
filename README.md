@@ -174,7 +174,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * ORLTM: "Online robust low-rank tensor modeling for streaming data analysis", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2019, [Paper](https://ieeexplore.ieee.org/abstract/document/8440682)
 
-* TTMTS: "Low-rank Tucker approximation of a tensor from streaming data", in **SIAM J. Math. Data Sci.***, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/19M1257718), [Code](https://github.com/udellgroup/tensorsketch)
+* TTMTS: "Low-rank Tucker approximation of a tensor from streaming data", in **SIAM J. Math. Data Sci.**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/19M1257718), [Code](https://github.com/udellgroup/tensorsketch)
 
 
 * OLRTR: "Streaming data preprocessing via online tensor recovery for large environmental sensor networks", in **ACM Trans. Knowl. Disc. Data**, 2022, [Paper](https://dl.acm.org/doi/abs/10.1145/3532189), [Code](https://github.com/yuehu9/Online_Robust_Tensor_Recovery)
