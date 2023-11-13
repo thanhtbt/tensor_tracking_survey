@@ -93,17 +93,21 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 * ROLCP: "A Fast Randomized Adaptive CP Decomposition for Streaming Tensors", in **IEEE ICASSP**, 2021,  [Paper](https://ieeexplore.ieee.org/abstract/document/9413554), [PDF](https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf), [Code](https://github.com/thanhtbt/ROLCP)
 
-* OnlineCPDL: "Online nonnegative CP-dictionary learning for Markovian data" in **J. Mach. Learn. Res.**, 2022,   [Paper](https://www.jmlr.org/papers/volume23/21-0419/21-0419.pdf), [Code](https://github.com/HanbaekLyu/OnlineCPDL)
+* OnlineCPDL: "Online nonnegative CP-dictionary learning for Markovian data" in **J. Mach. Learn. Res.**, 2022,  [PDF](https://www.jmlr.org/papers/volume23/21-0419/21-0419.pdf), [Code](https://github.com/HanbaekLyu/OnlineCPDL)
    
-* ACP: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [Code](https://github.com/thanhtbt/tensor_tracking)
+* ACP: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
 
 * ALTO: "Dynamic Tensor Linearization and Time Slicing for Efficient Factorization of Infinite Data Streams", in **IEEE IPDPS**, 2023,  [Paper](https://ieeexplore.ieee.org/abstract/document/10177430), [Code](https://github.com/jeewhanchoi/ALTO-stream)
 
-* OnlineGCP: "Streaming Generalized Canonical Polyadic Tensor Decompositions", in **PASC**, 2023,  [Paper](https://dl.acm.org/doi/abs/10.1145/3592979.3593405), [PDF](https://arxiv.org/pdf/2110.14514.pdf), [Code](https://gitlab.com/tensors/genten) 
+* OnlineGCP: "Streaming Generalized Canonical Polyadic Tensor Decompositions", in **PASC**, 2023,  [Paper](https://dl.acm.org/doi/abs/10.1145/3592979.3593405), [PDF](https://arxiv.org/pdf/2110.14514.pdf), [Code](https://gitlab.com/tensors/genten)
+
+  
 #### BCD + ADMM
 
-* spCP-stream:  "High Performance Streaming Tensor Decomposition", in **IEEE IPDPS**, 2021, [Paper](https://www.cs.uoregon.edu/Reports/DRP-202106-Soh.pdf), [Code](https://github.com/jeewhanchoi/row-sparse-cpstream)
-* RACP: "Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis" in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9866940) [Code](https://github.com/thanhtbt/tensor_tracking)
+* spCP-stream:  "High Performance Streaming Tensor Decomposition", in **IEEE IPDPS**, 2021, [Paper](https://ieeexplore.ieee.org/document/9460519), [PDF](https://www.cs.uoregon.edu/Reports/DRP-202106-Soh.pdf), [Code](https://github.com/jeewhanchoi/row-sparse-cpstream)
+  
+* RACP: "Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis" in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9866940), [PDF](https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
+  
 * T-MUST: "Robust online tensor completion for IoT streaming data recovery", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9758937)
 
 ### [Bayesian Inference](#content) 
