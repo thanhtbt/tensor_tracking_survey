@@ -127,7 +127,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * Dpar2: "Dpar2: Fast and scalable parafac2 decomposition for irregular dense tensors", in **IEEE ICDE**, 2022, [Paper](https://arxiv.org/pdf/2203.12798.pdf), [Code](https://datalab.snu.ac.kr/dpar2/)
 
-* Accurate PARAFAC2 Decomposition for Temporal Irregular Tensors with Missing Values, in **IEEE BigData**, 2022, [Paper](https://jungijang.github.io/resources/2022/BigData/atom.pdf), [Code](https://datalab.snu.ac.kr/atom/)
+* ATOM: "Accurate PARAFAC2 Decomposition for Temporal Irregular Tensors with Missing Values", in **IEEE BigData**, 2022, [Paper](https://jungijang.github.io/resources/2022/BigData/atom.pdf), [Code](https://datalab.snu.ac.kr/atom/)
   
 * DASH: "Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application", in **ACM SIGKDD**, 2023, [Paper](https://arxiv.org/pdf/2305.18376.pdf), [Code](https://github.com/snudatalab/Dash)
 
