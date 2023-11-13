@@ -6,6 +6,8 @@
 
 Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
+## Tensor Tracking Under The CP/PARAFAC Format
+
 ## Reference
 If you find this repository helpful for your work, please cite
 
