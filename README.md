@@ -71,7 +71,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * DTA and STA: "Beyond streams and graphs: dynamic tensor analysis", in **ACM SIGKDD**, 2007, [Paper](https://dl.acm.org/doi/abs/10.1145/1150402.1150445), [Code](https://www.sunlab.org/software)
 
-* IRTSA: "Robust visual tracking based on incremental tensor subspace learning", in **IEEE ICCV**, 2007, [Paper](https://ieeexplore.ieee.org/abstract/document/4408950), [Code](https://www.cs.toronto.edu/~dross/ivt/)
+* IRTSA: "Robust visual tracking based on incremental tensor subspace learning", in **IEEE ICCV**, 2007, [Paper](https://ieeexplore.ieee.org/abstract/document/4408950), [M-Code](https://www.cs.toronto.edu/~dross/ivt/), [P-Code](https://github.com/matkovst/IncrementalVisualTracker-python)
 
 #### Online Multimodal Dictionary Learning
 
