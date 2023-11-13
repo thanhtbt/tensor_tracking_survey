@@ -87,7 +87,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * IMDHOSVD: "Improved multi-order distributed HOSVD with its incremental computing for smart city services", in **IEEE Trans. Sustainable Comput.**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8536482)
 
-  
+
 
 #### Online Multimodal Dictionary Learning
 
@@ -99,6 +99,13 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * ORLTM: "Online robust low-rank tensor modeling for streaming data analysis", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2019, [Paper](https://ieeexplore.ieee.org/abstract/document/8440682)
 
 * OLRTR: "Streaming data preprocessing via online tensor recovery for large environmental sensor networks", in **ACM Trans. Knowl. Disc. Data**, 2022, [Paper](https://dl.acm.org/doi/abs/10.1145/3532189), [Code](https://github.com/yuehu9/Online_Robust_Tensor_Recovery)
+
+* D-L1-Tucker: "L1-norm Tucker tensor decomposition", in **IEEE Access**, 2019, [Paper](https://ieeexplore.ieee.org/abstract/document/8910610), [Code](https://github.com/yuehu9/Online_Robust_Tensor_Recovery)
+
+
+
+
+
 
 ### Tensor Subspace Tracking 
 
