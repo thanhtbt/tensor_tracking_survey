@@ -66,7 +66,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ## Tracking under Tucker/HOSVD format
 
-#### Online Tensor Dictionary Learning
+### Online Tensor Dictionary Learning
 
 
 #### Tensor Subspace Tracking 
