@@ -1,4 +1,4 @@
-## Tensor Tracking, Streaming/Online/Adaptive Tensor Decomposition, Dynamic Tensor Analysis
+## Tensor Tracking, Streaming/Online/Adaptive/Incremental Tensor Decomposition, Dynamic Tensor Analysis
 [On going] A list of up-to-date papers on streaming tensor decomposition, tensor tracking, and dynamic tensor decomposition.
 
 I will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue, make a pull request, or contact me via thanhle88.tbt@gmail.com.
@@ -9,7 +9,7 @@ I will continue to update this list with the newest resources. If you find any m
 
 Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
-## Tracking Under CP/PARAFAC Format
+## Dynamic Tensor Analysis Under CP/PARAFAC Format
 ### Subspace-based Methods 
 
 * PARAFAC-SDT/-RLS: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE Trans. Signal Process.**, 2009, [Paper](https://ieeexplore.ieee.org/document/4799120), [Code](http://dimitri.nion.free.fr/)
@@ -64,7 +64,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * DisMASTD: "Dismastd: An efficient distributed multi-aspect streaming tensor decomposition", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9458848)
 
 
-## Tracking under Tucker/HOSVD format
+## Dynamic Tensor Analysis under Tucker/HOSVD format
 
 ### Online Tensor Dictionary Learning
 #### Incremental Subspace Learning on Tensor Unfolding Matrices
@@ -124,7 +124,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * eOTD: "eOTD: An efficient online tucker decomposition for higher order tensors", in **IEEE ICDM**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8594989)
   
 
-## Tracking Under Tensor-Train Format
+## Dynamic Tensor Analysis Under Tensor-Train Format
 
 * DTT: "Dynamical approximation by hierarchical Tucker and tensor-train tensors", in **SIAM J. Matrix Anal. Appl.**, 2013, [Paper](https://epubs.siam.org/doi/abs/10.1137/120885723)
 
