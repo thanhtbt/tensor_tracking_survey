@@ -171,6 +171,12 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ## Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format
 
 * STR:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2307.00719.pdf)
+
+## Related Sources
+#### Good Surveys of (Batch) Tensor Decomposition
+
+* "Unsupervised multiway data analysis: A literature survey", in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
+
  
 ## Citation
 If you find this repository helpful for your work, please cite
