@@ -182,6 +182,7 @@ big data analysis", in **IEEE Signal Process. Mag.**, 2014, [Paper](https://ieee
 * "Tensor decompositions for signal processing applications: From two-way to multiway component analysis", in **IEEE Signal Process. Mag.**, 2015, [Paper](https://ieeexplore.ieee.org/abstract/document/7038247)
 * "Tensor networks for dimensionality reduction and large-scale optimization: Part 1 low-rank tensor decompositions", in **Found. Trends Mach. Learn.**, 2016, [Paper](https://www.nowpublishers.com/article/Details/MAL-059)
 * "Tensor Decomposition for Signal Processing and Machine Learning", in **IEEE Trans. Signal Process.**, 2017, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7891546)
+* "Tensors for data mining and data fusion: Models, applications, and scalable algorithms", in **ACM Trans. Intell. Syst. Technol**, 2017, [Paper](https://dl.acm.org/doi/10.1145/2915921)
 * "Tensor methods in computer vision and deep learning", in **Proc. IEEE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9420085)
 
 
