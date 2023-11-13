@@ -91,6 +91,12 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 #### Online Multimodal Dictionary Learning
 
+
+* OTDL: "Online multimodal dictionary learning", in **NeuroComputing**, 2019, [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219311919)
+
+
+
+
 ### Tensor Subspace Tracking 
 
 
