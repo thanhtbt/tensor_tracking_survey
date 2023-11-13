@@ -151,15 +151,15 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * DTA and STA: "Beyond streams and graphs: dynamic tensor analysis", in **ACM SIGKDD**, 2007, [Paper](https://dl.acm.org/doi/abs/10.1145/1150402.1150445), [PDF](https://www.cs.cmu.edu/~christos/PUBLICATIONS/kdd06DTA.pdf), [TKDD](https://doi.org/10.1145/1409620.1409621), [Code](https://www.sunlab.org/software)
 
-* IRTSA: "Robust visual tracking based on incremental tensor subspace learning", in **IEEE ICCV**, 2007, [Paper](https://ieeexplore.ieee.org/abstract/document/4408950), [M-Code](https://www.cs.toronto.edu/~dross/ivt/), [P-Code](https://github.com/matkovst/IncrementalVisualTracker-python)
+* IRTSA: "Robust visual tracking based on incremental tensor subspace learning", in **IEEE ICCV**, 2007, [Paper](https://ieeexplore.ieee.org/abstract/document/4408950), [PDF](https://web.archive.org/web/20170811190623id_/http://www.isee.zju.edu.cn/dsec/pdf/iccv07_final.pdf), [IJCV](https://link.springer.com/content/pdf/10.1007/s11263-010-0399-6.pdf), [M-Code](https://www.cs.toronto.edu/~dross/ivt/), [P-Code](https://github.com/matkovst/IncrementalVisualTracker-python)
 
-* RTSL: "A tensor-based approach for big data representation and dimensionality reduction", in **Int. J. Mach. Learn. Cybern**, 2011, [Paper](https://link.springer.com/article/10.1007/s13042-011-0017-0)
+* RTSL: "Robust tensor subspace learning for anomaly detection", in **Int. J. Mach. Learn. Cybern**, 2011, [Paper](https://link.springer.com/article/10.1007/s13042-011-0017-0), [PDF](https://d1wqtxts1xzle7.cloudfront.net/44758963/Robust_tensor_subspace_learning_for_anom20160415-2942-1k05299-libre.pdf?1460719842=&response-content-disposition=inline%3B+filename%3DRobust_tensor_subspace_learning_for_anom.pdf&Expires=1699913109&Signature=GuYaEuc17BoLAtxz8fQHYrYCEurs8yyvb68Hq2jeqCI9xiIA45AwJ8Zpuv~L-QDBRdHFR7OB9eaeB93kRL2Kyk9gbUIBvkle4BeFKZkHT-451vXu5wgVVdBdCNXS5iLQaU2moCFPZ6RH57y1C9R3cGMhG8Gnw4yuFq~maDBmAThTKxbSiXK-yzBZ47TtI4KPKcylq50TfrsqzNxmHMXM7kCY8qXk0KYVhmbPM9NcwSlr-iLAfNQJUBBFtXknsrTQbxqckmar4OZQ-wmzW4UO5C31bx84u39Fi2qd2DhvHEeG6Bbz5UB310gDrbptV0gWvm48tTQdb1Yh0ziusuvMqw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
   
 * ITF: "An incremental tensor factorization approach for web service recommendation", in **IEEE ICDM Works**, 2014,  [Paper](https://ieeexplore.ieee.org/abstract/document/7022617)
 
-* ALTO: "Accelerated online low rank tensor learning for multivariate spatiotemporal streams", in **ICML**, 2015, [Paper](https://proceedings.mlr.press/v37/yua15.pdf), [Code](https://roseyu.com/code.html)
+* ALTO: "Accelerated online low rank tensor learning for multivariate spatiotemporal streams", in **ICML**, 2015, [Paper](https://proceedings.mlr.press/v37/yua15.html), [PDF](https://proceedings.mlr.press/v37/yua15.pdf), [Code](https://roseyu.com/code.html)
 
-* IHOSVD: "A tensor-based approach for big data representation and dimensionality reduction", in **IEEE Trans. Emerg. Topics Comput.**, 2014,  [Paper](https://ieeexplore.ieee.org/abstract/document/6832490)
+* IHOSVD: "A tensor-based approach for big data representation and dimensionality reduction", in **IEEE Trans. Emerg. Topics Comput.**, 2014,  [Paper](https://ieeexplore.ieee.org/abstract/document/6832490), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6832490)
 
 * Ho-RLSL: "Recursive tensor subspace tracking for dynamic brain network analysis", in **IEEE Trans. Signal Inf. Process. Netw.**, 2017, [Paper](https://ieeexplore.ieee.org/ielaam/6884276/8098622/7852497-aam.pdf)
 
