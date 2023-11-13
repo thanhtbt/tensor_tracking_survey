@@ -281,6 +281,7 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 * *"Tensor networks for dimensionality reduction and large-scale optimization: Part 2 Applications and future perspectives"*, in **Found. Trends Mach. Learn.**, 2017, [Paper](https://www.nowpublishers.com/article/Details/MAL-067)
 * *"Tensor Decomposition for Signal Processing and Machine Learning"*, in **IEEE Trans. Signal Process.**, 2017, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7891546)
 * *"Tensors for data mining and data fusion: Models, applications, and scalable algorithms"*, in **ACM Trans. Intell. Syst. Technol**, 2017, [Paper](https://dl.acm.org/doi/10.1145/2915921)
+* *Tensor completion algorithms in big data analytics*, in **ACM Trans. Knowl. Disc. Data**, 2019, [Paper](https://dl.acm.org/doi/pdf/10.1145/3278607)
 * *"Tensor methods in computer vision and deep learning"*, in **Proc. IEEE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9420085)
 
 
