@@ -3,6 +3,8 @@
 
 I will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue, make a pull request, or contact me via thanhle88.tbt@gmail.com.
 
+Table of content
+
 - [Survey Paper](#survey-paper)
 - [Dynamic Tensor Analysis Under CP/PARAFAC Format](#dynamic-tensor-analysis-under-cp-parafac-format)
   * [Subspace-based Methods](#subspace-based-methods)
