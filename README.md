@@ -92,9 +92,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * ROLCP: "A Fast Randomized Adaptive CP Decomposition for Streaming Tensors", in **IEEE ICASSP**, 2021,  [Paper](https://ieeexplore.ieee.org/abstract/document/9413554), [Code](https://github.com/thanhtbt/ROLCP)
 
 * OnlineCPDL: "Online nonnegative CP-dictionary learning for Markovian data" in **J. Mach. Learn. Res.**, 2022,   [Paper](https://www.jmlr.org/papers/volume23/21-0419/21-0419.pdf), [Code](https://github.com/HanbaekLyu/OnlineCPDL)
- 
-
-  
+   
 * ACP: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [Code](https://github.com/thanhtbt/tensor_tracking)
 
 * ALTO: "Dynamic Tensor Linearization and Time Slicing for Efficient Factorization of Infinite Data Streams", in **IEEE IPDPS**, 2023,  [Paper](https://ieeexplore.ieee.org/abstract/document/10177430), [Code](https://github.com/jeewhanchoi/ALTO-stream)
@@ -126,6 +124,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ### Streaming PARAFAC2 Decomposition
 
 * SPADE: "SPADE: Streaming PARAFAC2 decomposition for large datasets", in **SDM**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.65), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SPADE.zip)
+
+* Dpar2: "Dpar2: Fast and scalable parafac2 decomposition for irregular dense tensors", in **IEEE ICDE**, 2022, [Paper](https://arxiv.org/pdf/2203.12798.pdf), [Code](https://datalab.snu.ac.kr/dpar2/)
+
 
 * DASH: "Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application", in **ACM SIGKDD**, 2023, [Paper](https://arxiv.org/pdf/2305.18376.pdf), [Code](https://github.com/snudatalab/Dash)
 
