@@ -19,7 +19,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 #### Block-Coordinate Descent
 
-* TeCPSGD
+* TeCPSGD: "Subspace Learning and Imputation for Streaming Big Data Matrices and Tensors" in **IEEE TSP**, 2015, [Paper](https://ieeexplore.ieee.org/document/7072498), [Code](https://github.com/thanhtbt/ROLCP/tree/main/Algorithms/TeCPSGD(2015))
 
 ## Reference
 If you find this repository helpful for your work, please cite
