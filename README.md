@@ -166,6 +166,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 #### Online Multimodal Dictionary Learning
 
+* Singleshot: "Singleshot: A scalable Tucker tensor decomposition", in **NeurIPS**, 2019, [Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/384babc3e7faa44cf1ca671b74499c3b-Paper.pdf)
 
 * OTDL: "Online multimodal dictionary learning", in **NeuroComputing**, 2019, [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219311919)
 
