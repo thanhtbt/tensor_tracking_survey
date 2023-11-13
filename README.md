@@ -175,8 +175,8 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ## Related Sources
 #### Good Surveys of (Batch) Tensor  Decomposition and Analysis
 
-* "Unsupervised multiway data analysis: A literature survey", in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
-* "Tensor decompositions and applications", in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
+* *"Unsupervised multiway data analysis: A literature survey"*, in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
+* *"Tensor decompositions and applications"*, in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
 * "Breaking the curse of dimensionality using decompositions of incomplete tensors: Tensor-based scientific computing in
 big data analysis", in **IEEE Signal Process. Mag.**, 2014, [Paper](https://ieeexplore.ieee.org/document/6879619)
 * "Tensor decompositions for signal processing applications: From two-way to multiway component analysis", in **IEEE Signal Process. Mag.**, 2015, [Paper](https://ieeexplore.ieee.org/abstract/document/7038247)
