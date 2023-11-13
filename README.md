@@ -198,6 +198,7 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 * Pyttb toolbox, [Python](https://github.com/sandialabs/pyttb)
 * TensorLy, [Python](https://tensorly.org/stable/index.html)  
 * Hottbox, [Python](https://github.com/hottbox/hottbox)
+* Tensorfac, [Python](https://etiennecmb.github.io/tensorpac/)
 
 ## Citation
 If you find this repository helpful for your work, please cite
