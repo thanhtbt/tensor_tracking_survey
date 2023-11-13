@@ -213,6 +213,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * STTA: "Streaming tensor train approximation", in **SIAM J. Sci. Comput.**, 2023, [Paper](https://epubs.siam.org/doi/abs/10.1137/22M1515045), [Code](https://github.com/RikVoorhaar/tt-sketch)
 
+* SPTT: "Streaming probabilistic tensor train decomposition", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2302.12148.pdf)
 
 ## Dynamic Tensor Analysis Under Block-Term Decomposition Format
 
