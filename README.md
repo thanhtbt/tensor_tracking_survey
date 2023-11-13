@@ -173,7 +173,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * STR:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2307.00719.pdf)
 
 ## Related Sources
-#### Good Surveys of (Batch) Tensor  Decomposition and Analysis
+### Good Surveys of (Batch) Tensor  Decomposition and Analysis
 
 * *"Unsupervised multiway data analysis: A literature survey"*, in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
 * *"Tensor decompositions and applications"*, in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
@@ -187,20 +187,26 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 * *"Tensor methods in computer vision and deep learning"*, in **Proc. IEEE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9420085)
 
 
-#### Tensor Toolbox
+### Tensor Toolbox
+#### MATLAB
+* NwayToolbox, [Link](https://fr.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox)
+* TensorToolbox, [Link](https://www.tensortoolbox.org/)
+* Tensorlab, [Link](https://www.tensorlab.net/)
+* TensorBox, [Link](https://github.com/phananhhuy/TensorBox)
+* Tensor-Tensor Product Toolbox, [Link](https://github.com/canyilu/Tensor-tensor-product-toolbox/)
+* Splatt, [Link](https://github.com/ShadenSmith/splatt)
+* TT-Toolbox, [Link](https://github.com/oseledets/TT-Toolbox)
+  
+#### Python
+* TT-Toolbox, [Link](https://github.com/oseledets/ttpy)
+* Pyttb toolbox, [Link](https://github.com/sandialabs/pyttb)
+* TensorLy, [Link](https://tensorly.org/stable/index.html)  
+* Hottbox, [Link](https://github.com/hottbox/hottbox)
+* Tensorfac, [Link](https://etiennecmb.github.io/tensorpac/)
+* TensorD, [Link](https://tensord-v02.readthedocs.io/en/latest/introduction.html)
 
-* NwayToolbox, [Matlab](https://fr.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox)
-* TensorToolbox, [Matlab](https://www.tensortoolbox.org/)
-* Tensorlab, [Matlab](https://www.tensorlab.net/)
-* TensorBox, [Matlab](https://github.com/phananhhuy/TensorBox)
-* Tensor-Tensor Product Toolbox, [Matlab](https://github.com/canyilu/Tensor-tensor-product-toolbox/)
-* Splatt, [Matlab](https://github.com/ShadenSmith/splatt)
-* TT-Toolbox, [Matlab](https://github.com/oseledets/TT-Toolbox), [Python](https://github.com/oseledets/ttpy)
-* Pyttb toolbox, [Python](https://github.com/sandialabs/pyttb)
-* TensorLy, [Python](https://tensorly.org/stable/index.html)  
-* Hottbox, [Python](https://github.com/hottbox/hottbox)
-* Tensorfac, [Python](https://etiennecmb.github.io/tensorpac/)
-* TensorD, [Python](https://tensord-v02.readthedocs.io/en/latest/introduction.html)
+#### R
+* Tensor, [Link](https://cran.r-project.org/web/packages/tensor/index.html)
 
 ## Citation
 If you find this repository helpful for your work, please cite
