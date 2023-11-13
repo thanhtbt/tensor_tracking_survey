@@ -173,9 +173,16 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * STR:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2307.00719.pdf)
 
 ## Related Sources
-#### Good Surveys of (Batch) Tensor Decomposition
+#### Good Surveys of (Batch) Tensor  Decomposition and Analysis
 
 * "Unsupervised multiway data analysis: A literature survey", in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
+* "Tensor decompositions and applications", in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
+* "Breaking the curse of dimensionality using decompositions of incomplete tensors: Tensor-based scientific computing in
+big data analysis", in **IEEE Signal Process. Mag.**, 2014, [Paper](https://ieeexplore.ieee.org/document/6879619)
+* "Tensor networks for dimensionality reduction and large-scale optimization: Part 1 low-rank tensor decompositions", in **Found. Trends Mach. Learn.**, 2016, [Paper](https://www.nowpublishers.com/article/Details/MAL-059)
+* "Tensor decompositions for signal processing applications: From two-way to multiway component analysis", in **IEEE Signal Process. Mag.**, 2009, [Paper](https://ieeexplore.ieee.org/abstract/document/7038247)
+* "Tensor Decomposition for Signal Processing and Machine Learning", in **IEEE Trans. Signal Process.**, 2009, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7891546)
+
 
  
 ## Citation
