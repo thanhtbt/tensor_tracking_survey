@@ -187,7 +187,7 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 * *"Tensor methods in computer vision and deep learning"*, in **Proc. IEEE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9420085)
 
 
-### Tensor Toolbox
+### Tensor Toolbox and Software
 #### MATLAB
 * NwayToolbox, [Link](https://fr.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox)
 * TensorToolbox, [Link](https://www.tensortoolbox.org/)
