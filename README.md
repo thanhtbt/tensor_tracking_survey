@@ -272,11 +272,11 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ## [Related Sources](#content) 
 ### [Good Surveys of (Batch) Tensor  Decomposition and Analysis](#content) 
 
-* Evrim Acar et al. [*"Unsupervised multiway data analysis: A literature survey"*](https://ieeexplore.ieee.org/abstract/document/4538221), in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
-* Tamara G. Kolda et al. [*"Tensor decompositions and applications"*](https://epubs.siam.org/doi/10.1137/07070111X), in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
+* Evrim Acar et al. *"[Unsupervised multiway data analysis: A literature survey](https://ieeexplore.ieee.org/abstract/document/4538221)"*, in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
+* Tamara G. Kolda et al. *"[Tensor decompositions and applications](https://epubs.siam.org/doi/10.1137/07070111X)"*, in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
 * Lieven De Lathauwer et al. *"[Breaking the curse of dimensionality using decompositions of incomplete tensors: Tensor-based scientific computing in
 big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://ieeexplore.ieee.org/document/6879619)
-* Andrzej Cichocki & Lieven De Lathauwer et al. *"Tensor decompositions for signal processing applications: From two-way to multiway component analysis"*, in **IEEE Signal Process. Mag.**, 2015, [Paper](https://ieeexplore.ieee.org/abstract/document/7038247)
+* Andrzej Cichocki & Lieven De Lathauwer et al. *"[Tensor decompositions for signal processing applications: From two-way to multiway component analysis](https://ieeexplore.ieee.org/abstract/document/7038247)"*, in **IEEE Signal Process. Mag.**, 2015, [Paper](https://ieeexplore.ieee.org/abstract/document/7038247)
 * Andrzej Cichocki & Ivan Oseledets et al. *"Tensor networks for dimensionality reduction and large-scale optimization: Part 1 low-rank tensor decompositions"*, in **Found. Trends Mach. Learn.**, 2016, [Paper](https://www.nowpublishers.com/article/Details/MAL-059)
 * Andrzej Cichocki & Ivan Oseledets et al. *"Tensor networks for dimensionality reduction and large-scale optimization: Part 2 Applications and future perspectives"*, in **Found. Trends Mach. Learn.**, 2017, [Paper](https://www.nowpublishers.com/article/Details/MAL-067)
 * Nicholas D. Sidiropoulos & Lieven De Lathauwer  et al. *"Tensor Decomposition for Signal Processing and Machine Learning"*, in **IEEE Trans. Signal Process.**, 2017, [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7891546)
