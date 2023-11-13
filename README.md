@@ -45,7 +45,6 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ![tensor_tracking](https://github.com/thanhtbt/tensor_tracking_survey/assets/26319211/6219b4d6-ce85-47ce-aa51-748661560a99)
 
 
-
 ## Dynamic Tensor Analysis Under CP/PARAFAC Format
 ### Subspace-based Methods 
 
