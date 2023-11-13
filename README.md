@@ -41,6 +41,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * 
 * ROLCP: "A Fast Randomized Adaptive CP Decomposition for Streaming Tensors", in **IEEE ICASSP**, 2021,  [Paper](https://ieeexplore.ieee.org/abstract/document/9413554), [Code](https://github.com/thanhtbt/ROLCP)
 
+* ACP: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [Code](https://github.com/thanhtbt/tensor_tracking)
+
+
 ## Reference
 If you find this repository helpful for your work, please cite
 
