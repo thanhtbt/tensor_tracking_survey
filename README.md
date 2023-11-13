@@ -50,7 +50,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 
 ## [Dynamic Tensor Analysis Under CP/PARAFAC Format](#content) 
-### Subspace-based Methods
+### [Subspace-based Methods](#content) 
 
 * PARAFAC-SDT/-RLS: “Adaptive algorithms to track the PARAFAC decomposition of a third-order tensor,” in **IEEE Trans. Signal Process.**, 2009, [Paper](https://ieeexplore.ieee.org/document/4799120), [Code](http://dimitri.nion.free.fr/)
 
@@ -60,7 +60,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * SOAP: "Second-order optimization based adaptive PARAFAC decomposition of three-way tensors", in **Elsevier DSP**, 2017, [Paper](https://www.sciencedirect.com/science/article/pii/S105120041730009X), [Code](https://drive.google.com/drive/folders/1x6PdEsr-1xDccm7titi5dQPLwgcKuOii)
 
-### Block-Coordinate Descent (BCD)
+### [Block-Coordinate Descent (BCD)](#content) 
 #### BCD + Stochastic Gradient Solvers
 
 * TeCPSGD: "Subspace Learning and Imputation for Streaming Big Data Matrices and Tensors", in **IEEE Trans. Signal Process.**, 2015, [Paper](https://ieeexplore.ieee.org/document/7072498), [Code](https://github.com/hiroyuki-kasai/OLSTEC/tree/master/benchmark/TeCPSGD)
@@ -107,7 +107,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * RACP: "Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis" in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9866940) [Code](https://github.com/thanhtbt/tensor_tracking)
 * T-MUST: "Robust online tensor completion for IoT streaming data recovery", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9758937)
 
-### Bayesian Inference
+### [Bayesian Inference](#content) 
 
 * POST: "Probabilistic streaming tensor decomposition", in **IEEE ICDM**, 2018,  [Paper](https://ieeexplore.ieee.org/abstract/document/8594834), [Code](https://github.com/yishuaidu/POST)
 
@@ -117,7 +117,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * SFTL: "Streaming Factor Trajectory Learning for Temporal Tensor Decomposition", in **NeurIPS**, 2023, [Paper](https://proceedings.mlr.press/v139/fang21d/fang21d.pdf), [PDF](https://arxiv.org/pdf/2310.17021.pdf), [Code](https://github.com/xuangu-fang/Streaming-Factor-Trajectory-Learning)
 
-### Multi-aspect Streaming CP Decomposition
+### [Multi-aspect Streaming CP Decomposition](#content) 
 
 * MASTA: "Multi-aspect-streaming tensor analysis", in **Knowl.-Based Syst.**, 2015, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002671), [Code](https://github.com/fanaee/MASTA/blob/main/MASTA.zip)
 
@@ -129,7 +129,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 * DisMASTD: "Dismastd: An efficient distributed multi-aspect streaming tensor decomposition", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9458848)
 
-### Streaming PARAFAC2 Decomposition
+### [Streaming PARAFAC2 Decomposition](#content) 
 
 * SPADE: "SPADE: Streaming PARAFAC2 decomposition for large datasets", in **SDM**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.65), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SPADE.zip)
 
@@ -143,7 +143,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ## [Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content) 
 
-### Online Tensor Dictionary Learning
+### [Online Tensor Dictionary Learning](#content) 
 #### Incremental Subspace Learning on Tensor Unfolding Matrices
 
 * DTA and STA: "Beyond streams and graphs: dynamic tensor analysis", in **ACM SIGKDD**, 2007, [Paper](https://dl.acm.org/doi/abs/10.1145/1150402.1150445), [Code](https://www.sunlab.org/software)
@@ -190,7 +190,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * ROLTD: "Robust Online Tucker Dictionary Learning from Multidimensional Data Streams", in **APSIPA-ASC**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9980029), [Code](https://github.com/thanhtbt/ROTDL)
 
 
-### Tensor Subspace Tracking 
+### [Tensor Subspace Tracking](#content) 
 
 * LRUT: "Accelerated low-rank updates to tensor decompositions", in **IEEE HPEC**, 2016, [Paper](https://ieeexplore.ieee.org/abstract/document/7761607)
 
@@ -206,7 +206,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * ATD: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [Code](https://github.com/thanhtbt/tensor_tracking)
 
-### Multi-aspect Streaming Tucker Decomposition
+### [Multi-aspect Streaming Tucker Decomposition](#content) 
 
 * SIITA: "Inductive Framework for Multi-Aspect Streaming Tensor Completion with Side Information", in **ACM CIKM**, 2018, [Paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271713), [Code](https://github.com/madhavcsa/SIITA)
 
@@ -215,20 +215,20 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ## [Dynamic Tensor Analysis Under Tensor-Train Format](#content) 
 
-### Dynamic Decomposition of Time-series Tensors with Fix-Size (Non-Streaming)
+### [Dynamic Decomposition of Time-series Tensors with Fix-Size (Non-Streaming)](#content) 
 
 * DATT: "Dynamical approximation by hierarchical Tucker and tensor-train tensors", in **SIAM J. Matrix Anal. Appl.**, 2013, [Paper](https://epubs.siam.org/doi/abs/10.1137/120885723)
 
 * DATT: "Time integration of tensor trains", in **SIAM J. Numer. Anal.**, 2015, [Paper](https://epubs.siam.org/doi/abs/10.1137/140976546)
 
 
-### Incremental Decomposition of Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)
+### [Incremental Decomposition of Tensors in Stationary Environments (i.e., TT-Cores are Fixed Over Time)](#content) 
 
 * ITTD: "An incremental tensor-train decomposition for cyber-physical-social big data", in **IEEE Trans. Big Data**, 2018,  [Paper](https://ieeexplore.ieee.org/abstract/document/8449102)
 
 * DTT: "DTT: A highly efficient distributed tensortrain decomposition method for IIoT big data", in **IEEE Trans. Ind. Inf**, 2021, [Paper](https://ieeexplore.ieee.org/document/8963751)
 
-### Streaming Decomposition of Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)
+### [Streaming Decomposition of Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)](#content) 
 
 * TT-FOA: "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors", in **EUSIPCO**, 2020,  [Paper](https://ieeexplore.ieee.org/document/9287780), [Code](https://github.com/thanhtbt/ATT)
 
@@ -270,7 +270,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 
 ## [Related Sources](#content) 
-### Good Surveys of (Batch) Tensor  Decomposition and Analysis
+### [Good Surveys of (Batch) Tensor  Decomposition and Analysis](#content) 
 
 * *"Unsupervised multiway data analysis: A literature survey"*, in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
 * *"Tensor decompositions and applications"*, in **SIAM Rev.**, 2009, [Paper](https://epubs.siam.org/doi/10.1137/07070111X)
@@ -285,7 +285,7 @@ big data analysis"*, in **IEEE Signal Process. Mag.**, 2014, [Paper](https://iee
 * *"Tensor methods in computer vision and deep learning"*, in **Proc. IEEE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9420085)
 
 
-### Tensor Toolbox and Software
+### [Tensor Toolbox and Software](#content) 
 #### MATLAB
 * NwayToolbox, [Link](https://fr.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox)
 * TensorToolbox, [Link](https://www.tensortoolbox.org/)
