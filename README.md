@@ -82,7 +82,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * Ho-RLSL: "Recursive tensor subspace tracking for dynamic brain network analysis", in **IEEE Trans. Signal Inf. Process. Netw.**, 2017, [Paper](https://ieeexplore.ieee.org/ielaam/6884276/8098622/7852497-aam.pdf)
 
 * DHOSVD: "A distributed HOSVD method with its incremental computation for big data in cyber-physical-social systems", in **IEEE Trans. Comput. Social Syst.**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8357923)
-  
+
+* MDHOSVD: "  A multi-order distributed HOSVD with its incremental computing for big services in cyber-physical-social systems", in **IEEE Trans. Big Data**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8333789)
+
 
 #### Online Multimodal Dictionary Learning
 
