@@ -146,6 +146,9 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ## Dynamic Tensor Analysis Under Block-Term Decomposition Format
 
+
+* OnlineBTD: "OnlineBTD: Streaming algorithms to track the block term decomposition of large tensors", in **DSAA**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9260061), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/OnlineBTD.zip)
+  
 * O-BTD-RLS: "Online rank-revealing block-term tensor decomposition", in **Elsevier Signal Process.**, 2023, [Paper](https://www.sciencedirect.com/science/article/pii/S0165168423002001)
 
 * SBTD: "A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors", in **IEEE SSP**, 2023, [Paper](https://ieeexplore.ieee.org/document/10208007)
