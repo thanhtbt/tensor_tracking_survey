@@ -39,9 +39,6 @@ Table of content
 
 ## Survey Paper
 [*A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition*](https://ieeexplore.ieee.org/document/9994046) 
-
-in **IEEE Trans. Knowl. Data Eng.** 2023, [PDF](https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf)
-
 Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ![tensor_tracking](https://github.com/thanhtbt/tensor_tracking_survey/assets/26319211/6219b4d6-ce85-47ce-aa51-748661560a99)
