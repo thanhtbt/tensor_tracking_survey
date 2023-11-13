@@ -66,6 +66,8 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * OLSTEC: "Online low-rank tensor subspace tracking from incomplete data by CP decomposition using recursive least squares", in **IEEE ICASSP**, 2016
 [Paper](https://ieeexplore.ieee.org/abstract/document/7472131), [Code](https://github.com/hiroyuki-kasai/OLSTEC)
 
+* CP-NLS: "Nonlinear least squares updating of the canonical polyadic decomposition", in **EUSIPCO**, 2027 [Paper](https://ieeexplore.ieee.org/document/8081290)
+
 * CP-stream: "Streaming tensor factorization for infinite data sources", in **SDM**, 2018, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.10), [Code](https://github.com/ShadenSmith/splatt)
 
 * SPADE: "SPADE: Streaming PARAFAC2 decomposition for large datasets", in **SDM**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.65), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SPADE.zip)
