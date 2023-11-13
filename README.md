@@ -37,7 +37,7 @@ Table of content
 
 
 
-## Survey Paper
+## [Survey Paper](#content) 
 [*A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition*](https://ieeexplore.ieee.org/document/9994046) 
 
 Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
@@ -137,7 +137,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * tPFARAC2: "A Time-aware tensor decomposition for tracking evolving patterns", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2308.07126.pdf), [Code](https://github.com/cchatzis/tPARAFAC2)
 
-## Dynamic Tensor Analysis under Tucker/HOSVD format
+## [Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content) 
 
 ### Online Tensor Dictionary Learning
 #### Incremental Subspace Learning on Tensor Unfolding Matrices
@@ -209,7 +209,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * eOTD: "eOTD: An efficient online tucker decomposition for higher order tensors", in **IEEE ICDM**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8594989)
   
 
-## Dynamic Tensor Analysis Under Tensor-Train Format
+## [Dynamic Tensor Analysis Under Tensor-Train Format](#content) 
 
 ### Dynamic Decomposition of Time-series Tensors with Fix-Size (Non-Streaming)
 
@@ -238,7 +238,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * SPTT: "Streaming probabilistic tensor train decomposition", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2302.12148.pdf)
 
-## Dynamic Tensor Analysis Under Block-Term Decomposition Format
+## [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#content) 
 
 
 * OnlineBTD: "OnlineBTD: Streaming algorithms to track the block term decomposition of large tensors", in **DSAA**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9260061), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/OnlineBTD.zip)
@@ -248,7 +248,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * SBTD: "A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors", in **IEEE SSP**, 2023, [Paper](https://ieeexplore.ieee.org/document/10208007)
 
 
-## Dynamic Tensor Analysis Under T-SVD Format
+## [Dynamic Tensor Analysis Under T-SVD Format](#content) 
 
 * TO-RPCA: "An online tensor robust PCA algorithm for sequential 2D data", in **IEEE ICASSP**, 2016, [Paper](https://ieeexplore.ieee.org/document/7472114)
   
@@ -256,7 +256,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * "Effective streaming low-tubal-rank tensor approximation via frequent directions", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2022, [Paper](https://arxiv.org/pdf/2108.10129.pdf)
 
-## Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format
+## [Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format](#content) 
 
 * "Multi-Aspect Streaming Tensor Ring Completion for Dynamic Incremental Data", in **IEEE Signal Process. Lett.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9996547)
 * OLSTR-SGD/RLS: "Online subspace learning and imputation by Tensor-Ring decomposition", in **Neural Netw.**, 2022, [Paper](https://www.sciencedirect.com/science/article/pii/S0893608022001976)
@@ -265,7 +265,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 
 
-## Related Sources
+## [Related Sources](#content) 
 ### Good Surveys of (Batch) Tensor  Decomposition and Analysis
 
 * *"Unsupervised multiway data analysis: A literature survey"*, in **IEEE TKDE**, 2008, [Paper](https://ieeexplore.ieee.org/abstract/document/4538221)
