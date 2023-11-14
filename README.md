@@ -1,8 +1,8 @@
-## Tensor Tracking, Streaming/Online/Adaptive/Incremental Tensor Decomposition, Dynamic Tensor Analysis
+## Tensor Tracking, Streaming/Online/Adaptive/Incremental Tensor Decomposition and Dynamic Tensor Analysis
 
-A list of up-to-date research papers on streaming tensor decomposition, tensor tracking, and dynamic tensor decomposition.
+A list of up-to-date research papers on streaming tensor decomposition, tensor tracking, and dynamic tensor analysis.
 
-P/S: *Please feel free to open an issue, make a pull request, or contact me via thanhle88.tbt@gmail.com when you find any missed references or errors*.
+*Please feel free to open an issue, make a pull request, or contact me via thanhle88.tbt@gmail.com if you find any missed references or errors*.
 
 **Table of Content**
 
