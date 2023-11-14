@@ -10,8 +10,8 @@ A list of up-to-date research papers on streaming tensor decomposition, tensor t
 - [Dynamic Tensor Analysis Under CP/PARAFAC Format](#dynamic-tensor-analysis-under-cp-parafac-format)
   * [Subspace-based Methods](#subspace-based-methods)
   * [Block-Coordinate Descent (BCD)](#block-coordinate-descent--bcd-)
-    + [BCD + Stochastic Gradient Solvers](#bcd---stochastic-gradient-solvers)
     + [BCD + Adaptive Least-Squares Filters](#bcd---adaptive-least-squares-filters)
+    + [BCD + Stochastic Gradient Solvers](#bcd---stochastic-gradient-solvers)
     + [BCD + ADMM](#bcd---admm)
   * [Bayesian Inference](#bayesian-inference)
   * [Multi-aspect Streaming CP Decomposition](#multi-aspect-streaming-cp-decomposition)
@@ -63,22 +63,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * SOAP: "Second-order optimization based adaptive PARAFAC decomposition of three-way tensors", in **Digital Signal Process.**, 2017, [Paper](https://www.sciencedirect.com/science/article/pii/S105120041730009X), [Code](https://drive.google.com/drive/folders/1x6PdEsr-1xDccm7titi5dQPLwgcKuOii)
 
 ### [Block-Coordinate Descent (BCD)](#content) 
-#### [BCD + Stochastic Gradient Solvers](#content) 
-
-* TeCPSGD: "Subspace Learning and Imputation for Streaming Big Data Matrices and Tensors", in **IEEE Trans. Signal Process.**, 2015, [Paper](https://ieeexplore.ieee.org/document/7072498), [PDF](https://arxiv.org/pdf/1404.4667.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC/tree/master/benchmark/TeCPSGD)
-
-* OLCP: "Accelerating Online CP Decompositions for Higher Order Tensors", in **ACM SIGKDD**, 2016, [Paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939763), [PDF](https://www.kdd.org/kdd2016/papers/files/rfp0403-zhouA.pdf), [Code](https://shuozhou.github.io/)
-
-* OnlineSCP: "Online CP Decomposition for Sparse Tensors", in **IEEE ICDM**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8595011), [PDF](https://shuozhou.github.io/papers/shuo18icdm_short.pdf), [Code](https://shuozhou.github.io/)
-
-* SOFIA: "Robust Factorization of Real-world Tensor Streams with Patterns, Missing Values, and Outliers", in **IEEE ICDE**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9458640), [PDF](https://arxiv.org/pdf/2102.08466.pdf?trk=public_post_comment-text), [Code](https://github.com/wooner49/sofia)
-
-* iCP-AM: "Incremental CP tensor decomposition by alternating minimization method", in **SIAM J. Matrix Anal. Appl**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/20M1319097) 
-
-* DAO-CP: "DAO-CP: Data Adaptive Online CP Decomposition", in **Plus One**, 2021, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009670/pdf/pone.0267091.pdf), [PDF](https://datalab.snu.ac.kr/dao-cp/resources/paper.pdf), [Code](https://github.com/lucetre-snu/dao-cp)
-
 #### [BCD + Adaptive Least-Squares Filters](#content) 
-
 
 * OLSTEC: "Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations", in **NeuroComput.**, 2017,  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231218313584), [PDF](https://arxiv.org/pdf/1709.10276.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC)
    * Conference version: "Online low-rank tensor subspace tracking from incomplete data by CP decomposition using recursive least squares", in **IEEE ICASSP**, 2016 [Paper](https://ieeexplore.ieee.org/abstract/document/7472131), [PDF](https://arxiv.org/pdf/1602.07067.pdf)
@@ -104,6 +89,20 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * ALTO: "Dynamic Tensor Linearization and Time Slicing for Efficient Factorization of Infinite Data Streams", in **IEEE IPDPS**, 2023,  [Paper](https://ieeexplore.ieee.org/abstract/document/10177430), [Code](https://github.com/jeewhanchoi/ALTO-stream)
 
 * OnlineGCP: "Streaming Generalized Canonical Polyadic Tensor Decompositions", in **PASC**, 2023,  [Paper](https://dl.acm.org/doi/abs/10.1145/3592979.3593405), [PDF](https://arxiv.org/pdf/2110.14514.pdf), [Code](https://gitlab.com/tensors/genten)
+
+#### [BCD + Stochastic Gradient Solvers](#content) 
+
+* TeCPSGD: "Subspace Learning and Imputation for Streaming Big Data Matrices and Tensors", in **IEEE Trans. Signal Process.**, 2015, [Paper](https://ieeexplore.ieee.org/document/7072498), [PDF](https://arxiv.org/pdf/1404.4667.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC/tree/master/benchmark/TeCPSGD)
+
+* OLCP: "Accelerating Online CP Decompositions for Higher Order Tensors", in **ACM SIGKDD**, 2016, [Paper](https://dl.acm.org/doi/abs/10.1145/2939672.2939763), [PDF](https://www.kdd.org/kdd2016/papers/files/rfp0403-zhouA.pdf), [Code](https://shuozhou.github.io/)
+
+* OnlineSCP: "Online CP Decomposition for Sparse Tensors", in **IEEE ICDM**, 2018, [Paper](https://ieeexplore.ieee.org/abstract/document/8595011), [PDF](https://shuozhou.github.io/papers/shuo18icdm_short.pdf), [Code](https://shuozhou.github.io/)
+
+* SOFIA: "Robust Factorization of Real-world Tensor Streams with Patterns, Missing Values, and Outliers", in **IEEE ICDE**, 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9458640), [PDF](https://arxiv.org/pdf/2102.08466.pdf?trk=public_post_comment-text), [Code](https://github.com/wooner49/sofia)
+
+* iCP-AM: "Incremental CP tensor decomposition by alternating minimization method", in **SIAM J. Matrix Anal. Appl**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/20M1319097) 
+
+* DAO-CP: "DAO-CP: Data Adaptive Online CP Decomposition", in **Plus One**, 2021, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009670/pdf/pone.0267091.pdf), [PDF](https://datalab.snu.ac.kr/dao-cp/resources/paper.pdf), [Code](https://github.com/lucetre-snu/dao-cp)
 
   
 #### [BCD + ADMM](#content) 
