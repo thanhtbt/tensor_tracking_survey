@@ -272,7 +272,18 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * STRC & TRSSD: "Patch tracking-based streaming tensor ring completion for visual data recovery", in **IEEE Trans. Circuits Syst. Video Techn.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9828504), [PDF](https://arxiv.org/pdf/2105.14620.pdf)
 * STR:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2307.00719.pdf)
 
-
+## [Research Challenges, Open Problems, and Future Directions](#content) 
+* Data Imperfection and Corruption
+  * Non-Gaussian and Colored Noises
+  * Outliers and Missing Data
+* Rank Revealing and Tracking
+* Efficient and Scalable Tensor Tracking
+   * Randomized Sketching
+   * Parallel and Distributed Computing
+   * Neural Networks-based Methods
+ * Provable Tensor Tracking Methods
+ * Symbolic Tensor Tracking
+ * Tracking under BTD, t-SVD, TN, and other variants
 
 ## [Related Sources](#content) 
 ### [Good Surveys of (Batch) Tensor  Decomposition, Analysis, and Applications](#content) 
