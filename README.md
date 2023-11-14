@@ -6,7 +6,7 @@ A list of up-to-date research papers on streaming tensor decomposition, tensor t
 
 **Table of Content**
 
- - [Survey Paper](#survey-paper)
+ - [Survey and Overview Paper](#survey-paper)
 - [Dynamic Tensor Analysis Under CP/PARAFAC Format](#dynamic-tensor-analysis-under-cp-parafac-format)
   * [Subspace-based Methods](#subspace-based-methods)
   * [Block-Coordinate Descent (BCD)](#block-coordinate-descent--bcd-)
