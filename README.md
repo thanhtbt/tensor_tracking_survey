@@ -147,6 +147,11 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * tPFARAC2: "A Time-aware tensor decomposition for tracking evolving patterns", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2308.07126.pdf), [Code](https://github.com/cchatzis/tPARAFAC2)
 
+### [Others](#content) 
+
+* DEMOTE: "Dynamic Tensor Decomposition via Neural Diffusion-Reaction Processes", in **NeurIPS**, 2023, [Paper](https://neurips.cc/virtual/2023/poster/71967), [PDF](https://arxiv.org/pdf/2310.19666.pdf), [Code](https://github.com/wzhut/Dynamic-Tensor-Decomposition-via-Neural-Diffusion-Reaction-Processes)
+
+
 ## [Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content) 
 
 ### [Online Tensor Dictionary Learning](#content) 
