@@ -66,7 +66,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 #### [BCD + Adaptive Least-Squares Filters](#content) 
 
 * OLSTEC: "Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations", in **NeuroComput.**, 2017,  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231218313584), [PDF](https://arxiv.org/pdf/1709.10276.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC)
-   * Conference version: "Online low-rank tensor subspace tracking from incomplete data by CP decomposition using recursive least squares", in **IEEE ICASSP**, 2016 [Paper](https://ieeexplore.ieee.org/abstract/document/7472131), [PDF](https://arxiv.org/pdf/1602.07067.pdf)
+   * Conference version: "Online low-rank tensor subspace tracking from incomplete data by CP decomposition using recursive least squares", in **IEEE ICASSP**, 2016 [Paper](https://ieeexplore.ieee.org/abstract/document/7472131), [PDF](https://arxiv.org/pdf/1602.07067.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC)
 
 * CP-NLS: "Nonlinear least squares updating of the canonical polyadic decomposition", in **EUSIPCO**, 2017, [Paper](https://ieeexplore.ieee.org/document/8081290), [PDF](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570347577.pdf), [Code](https://www.tensorlabplus.net/papers/vandecappelle2017cpdu.html)
 
