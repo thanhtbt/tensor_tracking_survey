@@ -213,9 +213,11 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * SNBTD: "Streaming nonlinear Bayesian tensor decomposition", in  **UAI**, 2020, [Paper](https://proceedings.mlr.press/v124/pan20a.html), [PDF](https://proceedings.mlr.press/v124/pan20a/pan20a.pdf), [Code](https://github.com/USTCEarthDefense/SNBTD)
   
-* BASS-Tucker: "Bayesian streaming sparse Tucker decomposition", in **UAI**, 2021, [Paper](https://proceedings.mlr.press/v161/fang21b.html), [PDF](https://proceedings.mlr.press/v161/fang21b.html), [Code](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)
+* BASS-Tucker: "Bayesian streaming sparse Tucker decomposition", in **UAI**, 2021, [Paper](https://proceedings.mlr.press/v161/fang21b.html), [PDF](https://proceedings.mlr.press/v161/fang21b/fang21b.pdf), [Code](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)
   
+* BCTT: "Bayesian Continuous-Time Tucker Decomposition", in **ICML**, 2022, [Paper](https://proceedings.mlr.press/v162/fang22b.html), [PDF](https://proceedings.mlr.press/v162/fang22b/fang22b.pdf), [Code](https://github.com/xuangu-fang/Bayesian-Continuous-Time-Tucker-Decomposition)
 
+  
 ### [Multi-aspect Streaming Tucker Decomposition](#content) 
 
 * SIITA: "Inductive Framework for Multi-Aspect Streaming Tensor Completion with Side Information", in **ACM CIKM**, 2018, [Paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271713), [PDF](https://pdfs.semanticscholar.org/99c8/b8d79ec419209513ee49274b4b7b537d3d73.pdf), [Code](https://github.com/madhavcsa/SIITA)
