@@ -275,7 +275,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 
 ## [Related Sources](#content) 
-### [Good Surveys of (Batch) Tensor  Decomposition and Analysis](#content) 
+### [Good Surveys of (Batch) Tensor  Decomposition, Analysis, and Applications](#content) 
 
 * Evrim Acar et al. *"[Unsupervised multiway data analysis: A literature survey](https://ieeexplore.ieee.org/abstract/document/4538221)"*, in **IEEE TKDE**, 2008, [PDF](https://web.archive.org/web/20130328222403id_/http://www.cs.rpi.edu/research/pdf/07-06.pdf)
   
