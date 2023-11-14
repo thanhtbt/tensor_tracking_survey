@@ -86,7 +86,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
    
 * ACP: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
 
-* ALTO: "Dynamic Tensor Linearization and Time Slicing for Efficient Factorization of Infinite Data Streams", in **IEEE IPDPS**, 2023,  [Paper](https://ieeexplore.ieee.org/abstract/document/10177430), [Matlab](https://github.com/jeewhanchoi/ALTO-stream), [Python](https://nbviewer.org/github/xinychen/tensor-learning/blob/master/baselines/Online-LRTL.ipynb)
+* ALTO: "Dynamic Tensor Linearization and Time Slicing for Efficient Factorization of Infinite Data Streams", in **IEEE IPDPS**, 2023,  [Paper](https://ieeexplore.ieee.org/abstract/document/10177430), [Code](https://github.com/jeewhanchoi/ALTO-stream)
 
 * OnlineGCP: "Streaming Generalized Canonical Polyadic Tensor Decompositions", in **PASC**, 2023,  [Paper](https://dl.acm.org/doi/abs/10.1145/3592979.3593405), [PDF](https://arxiv.org/pdf/2110.14514.pdf), [Code](https://gitlab.com/tensors/genten)
 
@@ -165,7 +165,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 * ITF: "An incremental tensor factorization approach for web service recommendation", in **IEEE ICDM Works**, 2014,  [Paper](https://ieeexplore.ieee.org/abstract/document/7022617)
 
-* ALTO: "Accelerated online low rank tensor learning for multivariate spatiotemporal streams", in **ICML**, 2015, [Paper](https://proceedings.mlr.press/v37/yua15.html), [PDF](https://proceedings.mlr.press/v37/yua15.pdf), [Code](https://roseyu.com/code.html)
+* Online-LRTL: "Accelerated online low rank tensor learning for multivariate spatiotemporal streams", in **ICML**, 2015, [Paper](https://proceedings.mlr.press/v37/yua15.html), [PDF](https://proceedings.mlr.press/v37/yua15.pdf), [Matlab](https://roseyu.com/code.html), [Python](https://nbviewer.org/github/xinychen/tensor-learning/blob/master/baselines/Online-LRTL.ipynb)
 
 * IHOSVD: "A tensor-based approach for big data representation and dimensionality reduction", in **IEEE Trans. Emerg. Topics Comput.**, 2014,  [Paper](https://ieeexplore.ieee.org/abstract/document/6832490), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6832490)
 
