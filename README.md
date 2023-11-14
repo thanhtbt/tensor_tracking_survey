@@ -21,6 +21,7 @@ A list of up-to-date research papers on streaming tensor decomposition, tensor t
     + [Incremental Subspace Learning on Tensor Unfolding Matrices](#incremental-subspace-learning-on-tensor-unfolding-matrices)
     + [Online Multimodal Dictionary Learning](#online-multimodal-dictionary-learning)
   * [Tensor Subspace Tracking](#tensor-subspace-tracking)
+  * [Bayesian Inference](#bayesian-inference)
   * [Multi-aspect Streaming Tucker Decomposition](#multi-aspect-streaming-tucker-decomposition)
 - [Dynamic Tensor Analysis Under Tensor-Train Format](#dynamic-tensor-analysis-under-tensor-train-format)
   * [Dynamic Decomposition of Time-series Tensors with Fix-Size](#dynamic-decomposition-of-time-series-tensors-with-fix-size--non-streaming-)
@@ -200,15 +201,19 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * Riemannian-based method: "Low-rank tensor completion: a Riemannian manifold preconditioning approach", in **ICML**, 2016, [Paper](https://proceedings.mlr.press/v48/kasai16.html), [PDF](https://proceedings.mlr.press/v48/kasai16.pdf), [Code](https://bamdevmishra.in/codes/tensorcompletion/)
 
-* SNBTD: "Streaming nonlinear Bayesian tensor decomposition", in  **UAI**, 2020, [Paper](https://proceedings.mlr.press/v124/pan20a.html), [PDF](https://proceedings.mlr.press/v124/pan20a/pan20a.pdf), [Code](https://github.com/USTCEarthDefense/SNBTD)
-  
-* BASS-Tucker: "Bayesian streaming sparse Tucker decomposition", in **UAI**, 2021, [Paper](https://proceedings.mlr.press/v161/fang21b.html), [PDF](https://proceedings.mlr.press/v161/fang21b.html), [Code](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)
-
 * RT-NTD and BK-NTD: " Incremental nonnegative Tucker decomposition with block-coordinate descent and recursive approaches", in **Symmetry**, 2022, [Paper](https://www.mdpi.com/2073-8994/14/1/113), [Code](https://github.com/RafalZdunek/Incremental-NTD)
 
 *  D-TuckerO: "Static and Streaming Tucker Decomposition for Dense Tensors", in **ACM Trans. Knowl. Disc. Data**, 2022, [Paper](https://dl.acm.org/doi/10.1145/3568682), [PDF](https://datalab.snu.ac.kr/~ukang/papers/dtuckerTKDD23.pdf), [Code](https://datalab.snu.ac.kr/dtucker/)
 
 * ATD: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [Paper](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
+
+
+### [Bayesian Inference](#content) 
+
+* SNBTD: "Streaming nonlinear Bayesian tensor decomposition", in  **UAI**, 2020, [Paper](https://proceedings.mlr.press/v124/pan20a.html), [PDF](https://proceedings.mlr.press/v124/pan20a/pan20a.pdf), [Code](https://github.com/USTCEarthDefense/SNBTD)
+  
+* BASS-Tucker: "Bayesian streaming sparse Tucker decomposition", in **UAI**, 2021, [Paper](https://proceedings.mlr.press/v161/fang21b.html), [PDF](https://proceedings.mlr.press/v161/fang21b.html), [Code](https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker)
+  
 
 ### [Multi-aspect Streaming Tucker Decomposition](#content) 
 
