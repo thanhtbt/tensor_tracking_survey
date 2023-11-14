@@ -62,7 +62,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * SOAP: "Second-order optimization based adaptive PARAFAC decomposition of three-way tensors", in **Digital Signal Process.**, 2017, [Paper](https://www.sciencedirect.com/science/article/pii/S105120041730009X), [Code](https://drive.google.com/drive/folders/1x6PdEsr-1xDccm7titi5dQPLwgcKuOii)
 
 ### [Block-Coordinate Descent (BCD)](#content) 
-#### BCD + Stochastic Gradient Solvers
+#### [BCD + Stochastic Gradient Solvers](#content) 
 
 * TeCPSGD: "Subspace Learning and Imputation for Streaming Big Data Matrices and Tensors", in **IEEE Trans. Signal Process.**, 2015, [Paper](https://ieeexplore.ieee.org/document/7072498), [PDF](https://arxiv.org/pdf/1404.4667.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC/tree/master/benchmark/TeCPSGD)
 
@@ -74,7 +74,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * DAO-CP: "DAO-CP: Data Adaptive Online CP Decomposition", in **Plus One**, 2021, [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009670/pdf/pone.0267091.pdf), [PDF](https://datalab.snu.ac.kr/dao-cp/resources/paper.pdf), [Code](https://github.com/lucetre-snu/dao-cp)
 
-#### BCD + Adaptive Least-Squares Filters
+#### [BCD + Adaptive Least-Squares Filters](#content) 
 
 
 * OLSTEC: "Online low-rank tensor subspace tracking from incomplete data by CP decomposition using recursive least squares", in **IEEE ICASSP**, 2016
@@ -103,7 +103,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * OnlineGCP: "Streaming Generalized Canonical Polyadic Tensor Decompositions", in **PASC**, 2023,  [Paper](https://dl.acm.org/doi/abs/10.1145/3592979.3593405), [PDF](https://arxiv.org/pdf/2110.14514.pdf), [Code](https://gitlab.com/tensors/genten)
 
   
-#### BCD + ADMM
+#### [BCD + ADMM](#content) 
 
 * spCP-stream:  "High Performance Streaming Tensor Decomposition", in **IEEE IPDPS**, 2021, [Paper](https://ieeexplore.ieee.org/document/9460519), [PDF](https://www.cs.uoregon.edu/Reports/DRP-202106-Soh.pdf), [Code](https://github.com/jeewhanchoi/row-sparse-cpstream)
   
@@ -148,7 +148,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 ## [Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content) 
 
 ### [Online Tensor Dictionary Learning](#content) 
-#### Incremental Subspace Learning on Tensor Unfolding Matrices
+#### [Incremental Subspace Learning on Tensor Unfolding Matrices](#content) 
 
 * DTA and STA: "Beyond streams and graphs: dynamic tensor analysis", in **ACM SIGKDD**, 2007, [Paper](https://dl.acm.org/doi/abs/10.1145/1150402.1150445), [PDF](https://www.cs.cmu.edu/~christos/PUBLICATIONS/kdd06DTA.pdf), [TKDD](https://doi.org/10.1145/1409620.1409621), [Code](https://www.sunlab.org/software)
 
@@ -172,7 +172,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 
 
-#### Online Multimodal Dictionary Learning
+#### [Online Multimodal Dictionary Learning](#content) 
 
 * Singleshot: "Singleshot: A scalable Tucker tensor decomposition", in **NeurIPS**, 2019, [Paper](https://proceedings.neurips.cc/paper/2019/hash/384babc3e7faa44cf1ca671b74499c3b-Abstract.html), [PDF](https://proceedings.neurips.cc/paper_files/paper/2019/file/384babc3e7faa44cf1ca671b74499c3b-Paper.pdf)
 
@@ -297,7 +297,7 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
 
 
 ### [Tensor Toolbox and Software](#content) 
-#### MATLAB
+#### [MATLAB](#content) 
 * NwayToolbox, [Link](https://fr.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox)
 * TensorToolbox, [Link](https://www.tensortoolbox.org/)
 * Tensorlab, [Link](https://www.tensorlab.net/)
@@ -306,7 +306,7 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
 * Splatt, [Link](https://github.com/ShadenSmith/splatt)
 * TT-Toolbox, [Link](https://github.com/oseledets/TT-Toolbox)
   
-#### Python
+#### [Python](#content) 
 * TT-Toolbox, [Link](https://github.com/oseledets/ttpy)
 * Pyttb toolbox, [Link](https://github.com/sandialabs/pyttb)
 * TensorLy, [Link](https://tensorly.org/stable/index.html)  
@@ -314,13 +314,13 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
 * Tensorfac, [Link](https://etiennecmb.github.io/tensorpac/)
 * TensorD, [Link](https://tensord-v02.readthedocs.io/en/latest/introduction.html)
 
-#### R
+#### [R](#content) 
 * Tensor, [Link](https://cran.r-project.org/web/packages/tensor/index.html)
 * rTensor, [Link](https://cran.r-project.org/web/packages/rTensor/index.html)
 * nnTensor, [Link](https://cran.r-project.org/web/packages/nnTensor/index.html)
 * TensorBF, [Link](https://cran.r-project.org/web/packages/tensorBF/index.html)
 
-#### Julia
+#### [Julia](#content) 
 * TensorDecomp, [Link](https://github.com/yunjhongwu/TensorDecompositions.jl)
 * Tensortoolbox, [Link](https://github.com/lanaperisa/TensorToolbox.jl)
 * iTensor, [Link](https://scipost.org/10.21468/SciPostPhysCodeb.4)
