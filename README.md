@@ -42,7 +42,7 @@ A list of up-to-date research papers on streaming tensor decomposition, tensor t
 
 
 
-## [Survey Paper](#content) 
+## [Survey and Overview Paper](#content) 
 [*A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition*](https://ieeexplore.ieee.org/document/9994046) 
 
 Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
