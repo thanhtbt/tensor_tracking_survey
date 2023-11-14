@@ -4,7 +4,7 @@ A list of up-to-date research papers on streaming tensor decomposition, tensor t
 
 *Please feel free to open an issue, make a pull request, contribute, and revise (or contact [me](https://thanhtbt.github.io/)) if you find any missed references or errors*.
 
-**Table of Content**
+## Table of Content
 
  - [Survey and Overview Paper](#survey-paper)
 - [Dynamic Tensor Analysis Under CP/PARAFAC Format](#dynamic-tensor-analysis-under-cp-parafac-format)
