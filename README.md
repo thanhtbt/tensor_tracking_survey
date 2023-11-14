@@ -299,9 +299,9 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
 
 ### [Tensor Toolbox and Software](#content) 
 #### [MATLAB](#content) 
-* NwayToolbox, [Link](https://fr.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox)
+* Nway-Toolbox, [Link](https://fr.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox)
 * TensorToolbox, [Link](https://www.tensortoolbox.org/)
-* Tensorlab, [Link](https://www.tensorlab.net/)
+* TensorLab, [Link](https://www.tensorlab.net/)
 * TensorBox, [Link](https://github.com/phananhhuy/TensorBox)
 * Tensor-Tensor Product Toolbox, [Link](https://github.com/canyilu/Tensor-tensor-product-toolbox/)
 * Splatt, [Link](https://github.com/ShadenSmith/splatt)
@@ -309,7 +309,7 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
   
 #### [Python](#content) 
 * TT-Toolbox, [Link](https://github.com/oseledets/ttpy)
-* Pyttb toolbox, [Link](https://github.com/sandialabs/pyttb)
+* Pyttb Toolbox, [Link](https://github.com/sandialabs/pyttb)
 * TensorLy, [Link](https://tensorly.org/stable/index.html)  
 * Hottbox, [Link](https://github.com/hottbox/hottbox)
 * Tensorfac, [Link](https://etiennecmb.github.io/tensorpac/)
