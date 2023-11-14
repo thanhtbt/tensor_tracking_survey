@@ -86,7 +86,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
    
 * ACP: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
 
-* ALTO: "Dynamic Tensor Linearization and Time Slicing for Efficient Factorization of Infinite Data Streams", in **IEEE IPDPS**, 2023,  [Paper](https://ieeexplore.ieee.org/abstract/document/10177430), [Code](https://github.com/jeewhanchoi/ALTO-stream)
+* ALTO: "Dynamic Tensor Linearization and Time Slicing for Efficient Factorization of Infinite Data Streams", in **IEEE IPDPS**, 2023,  [Paper](https://ieeexplore.ieee.org/abstract/document/10177430), [Matlab](https://github.com/jeewhanchoi/ALTO-stream), [Python](https://nbviewer.org/github/xinychen/tensor-learning/blob/master/baselines/Online-LRTL.ipynb)
 
 * OnlineGCP: "Streaming Generalized Canonical Polyadic Tensor Decompositions", in **PASC**, 2023,  [Paper](https://dl.acm.org/doi/abs/10.1145/3592979.3593405), [PDF](https://arxiv.org/pdf/2110.14514.pdf), [Code](https://gitlab.com/tensors/genten)
 
@@ -107,7 +107,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 #### [BCD + ADMM](#content) 
 
-* spCP-stream:  "High Performance Streaming Tensor Decomposition", in **IEEE IPDPS**, 2021, [Paper](https://ieeexplore.ieee.org/document/9460519), [PDF](https://www.cs.uoregon.edu/Reports/DRP-202106-Soh.pdf), [Code](https://github.com/jeewhanchoi/row-sparse-cpstream)
+* spCP-stream:  "High-Performance Streaming Tensor Decomposition", in **IEEE IPDPS**, 2021, [Paper](https://ieeexplore.ieee.org/document/9460519), [PDF](https://www.cs.uoregon.edu/Reports/DRP-202106-Soh.pdf), [Code](https://github.com/jeewhanchoi/row-sparse-cpstream)
   
 * RACP: "Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis" in **IEEE Trans. Signal Process.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9866940), [PDF](https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
   
