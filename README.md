@@ -29,6 +29,7 @@ A list of up-to-date research papers on streaming tensor decomposition, tensor t
 - [Dynamic Tensor Analysis Under Block-Term Decomposition Format](#dynamic-tensor-analysis-under-block-term-decomposition-format)
 - [Dynamic Tensor Analysis Under T-SVD Format](#dynamic-tensor-analysis-under-t-svd-format)
 - [Dynamic Tensor Analysis Under Tensor-Ring/Tensor Network Format](#dynamic-tensor-analysis-under-tensor-ring-tensor-network-format)
+- [Research Challenges, Open Problems, and Future Directions](#challenges)
 - [Related Sources](#related-sources)
   * [Good Surveys of (Batch) Tensor  Decomposition and Analysis](#good-surveys-of--batch--tensor--decomposition-and-analysis)
   * [Tensor Toolbox and Software](#tensor-toolbox-and-software)
@@ -39,7 +40,6 @@ A list of up-to-date research papers on streaming tensor decomposition, tensor t
 - [Citation](#citation)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
-
 
 
 ## [Survey and Overview Paper](#content) 
