@@ -113,7 +113,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 * T-MUST: "Robust online tensor completion for IoT streaming data recovery", in **IEEE Trans. Neural Netw. Learn. Syst.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9758937)
 
-### [Bayesian Inference](#content) 
+### [Bayesian Inference Methods](#content) 
 
 * POST: "Probabilistic streaming tensor decomposition", in **IEEE ICDM**, 2018,  [Paper](https://ieeexplore.ieee.org/abstract/document/8594834), [PDF](https://users.cs.utah.edu/~zhe/pdf/POST.pdf), [Code](https://github.com/yishuaidu/POST)
 
@@ -123,7 +123,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * SFTL: "Streaming Factor Trajectory Learning for Temporal Tensor Decomposition", in **NeurIPS**, 2023, [Paper](https://neurips.cc/virtual/2023/poster/71689), [PDF](https://proceedings.mlr.press/v139/fang21d/fang21d.pdf), [PDF](https://arxiv.org/pdf/2310.17021.pdf), [Code](https://github.com/xuangu-fang/Streaming-Factor-Trajectory-Learning)
 
-### [Multi-aspect Streaming CP Decomposition](#content) 
+### [Multi-aspect Streaming CP Decomposition Methods](#content) 
 
 * MASTA: "Multi-aspect-streaming tensor analysis", in **Knowl.-Based Syst.**, 2015, [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002671), [PDF](https://repositorio.inesctec.pt/server/api/core/bitstreams/ca4786ca-278c-417a-8bbc-7f00b511ecfd/content), [Code](https://github.com/fanaee/MASTA/blob/main/MASTA.zip)
 
