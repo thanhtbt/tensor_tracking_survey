@@ -358,7 +358,8 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
   * Video datasets: [Link-1](https://github.com/xiaobai1217/Awesome-Video-Datasets), [Link-2](https://paperswithcode.com/datasets?mod=videos), [Link-3](http://jacarini.dinf.usherbrooke.ca/)
 
  #### [NeuroScience](#\content)
-* EEG Signals: [WEPWAVELAB](https://www.erpwavelab.org/index.htm)
+ * Dynamic functional connectivity networks analysis: [TBE 2016](https://ieeexplore.ieee.org/abstract/document/7452353), [TSIPN 2017](https://ieeexplore.ieee.org/abstract/document/7852497), [Front. Neurosci. 2022](https://www.frontiersin.org/articles/10.3389/fnins.2022.861402/full)
+ * Datasets: [WEPWAVELAB](https://www.erpwavelab.org/index.htm)
 
   
 ## Citation
