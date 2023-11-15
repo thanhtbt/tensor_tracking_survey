@@ -330,6 +330,7 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
 * Tensor-Tensor Product Toolbox, [Link](https://github.com/canyilu/Tensor-tensor-product-toolbox/)
 * Splatt, [Link](https://github.com/ShadenSmith/splatt)
 * TT-Toolbox, [Link](https://github.com/oseledets/TT-Toolbox)
+* Hierarchical Tucker Toolbox, [Link](https://www.epfl.ch/labs/anchp/index-html/software/htucker/)
   
 #### [Python](#content) 
 * TT-Toolbox, [Link](https://github.com/oseledets/ttpy)
