@@ -350,8 +350,8 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
 * Tensortoolbox, [Link](https://github.com/lanaperisa/TensorToolbox.jl)
 * iTensor, [Link](https://scipost.org/10.21468/SciPostPhysCodeb.4)
 
-### [Applications: Time-Series Datasets](#content) 
-* Video tracking:  [Video Database](http://jacarini.dinf.usherbrooke.ca/)
+### [Applications and Time-Series Datasets](#content) 
+* Video/Visual tracking:  [Video Database](http://jacarini.dinf.usherbrooke.ca/)
 * EEG Signals: [WEPWAVELAB](https://www.erpwavelab.org/index.htm)
 
   
