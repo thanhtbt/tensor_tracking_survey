@@ -135,7 +135,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
   
 * DisMASTD: "Dismastd: An efficient distributed multi-aspect streaming tensor decomposition", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9458848), [PDF](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7127&context=sis_research)
 
-### [Streaming PARAFAC2 Decomposition](#content) 
+### [Streaming PARAFAC2 Decomposition Methods](#content) 
 
 * SPADE: "SPADE: Streaming PARAFAC2 decomposition for large datasets", in **SDM**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.65), [PDF](https://madlab.cs.ucr.edu/papers/2020_SDM_SPADE.pdf), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SPADE.zip)
 
@@ -154,7 +154,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 ## [Dynamic Tensor Analysis Under Tucker/HOSVD Format](#content) 
 
-### [Online Tensor Dictionary Learning](#content) 
+### [Online Tensor Dictionary Learning Methods](#content) 
 #### [Incremental Subspace Learning on Tensor Unfolding Matrices](#content) 
 
 * DTA and STA: "Beyond streams and graphs: dynamic tensor analysis", in **ACM SIGKDD**, 2007, [Paper](https://dl.acm.org/doi/abs/10.1145/1150402.1150445), [PDF](https://www.cs.cmu.edu/~christos/PUBLICATIONS/kdd06DTA.pdf), [TKDD](https://doi.org/10.1145/1409620.1409621), [Code](https://www.sunlab.org/software)
@@ -201,7 +201,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * ROLTD: "Robust Online Tucker Dictionary Learning from Multidimensional Data Streams", in **APSIPA-ASC**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9980029), [PDF](https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf), [Code](https://github.com/thanhtbt/ROTDL)
 
 
-### [Tensor Subspace Tracking](#content) 
+### [Tensor Subspace Tracking Methods](#content) 
 
 * LRUT: "Accelerated low-rank updates to tensor decompositions", in **IEEE HPEC**, 2016, [Paper](https://ieeexplore.ieee.org/abstract/document/7761607), [PDF](http://www.harperlangston.com/papers/lowrank_hpec.pdf)
 
@@ -214,7 +214,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * ATD: "Tracking online low-rank approximations of higher-order incomplete streaming tensors", in **Cell Patterns**, 2023,  [Paper](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [PDF](https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf), [Code](https://github.com/thanhtbt/tensor_tracking)
 
 
-### [Bayesian Inference](#content) 
+### [Bayesian Inference Methods](#content) 
 
 * SNBTD: "Streaming nonlinear Bayesian tensor decomposition", in  **UAI**, 2020, [Paper](https://proceedings.mlr.press/v124/pan20a.html), [PDF](https://proceedings.mlr.press/v124/pan20a/pan20a.pdf), [Code](https://github.com/USTCEarthDefense/SNBTD)
   
@@ -223,7 +223,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 * BCTT: "Bayesian Continuous-Time Tucker Decomposition", in **ICML**, 2022, [Paper](https://proceedings.mlr.press/v162/fang22b.html), [PDF](https://proceedings.mlr.press/v162/fang22b/fang22b.pdf), [Code](https://github.com/xuangu-fang/Bayesian-Continuous-Time-Tucker-Decomposition)
 
   
-### [Multi-aspect Streaming Tucker Decomposition](#content) 
+### [Multi-aspect Streaming Tucker Decomposition Methods](#content) 
 
 * SIITA: "Inductive Framework for Multi-Aspect Streaming Tensor Completion with Side Information", in **ACM CIKM**, 2018, [Paper](https://dl.acm.org/doi/abs/10.1145/3269206.3271713), [PDF](https://pdfs.semanticscholar.org/99c8/b8d79ec419209513ee49274b4b7b537d3d73.pdf), [Code](https://github.com/madhavcsa/SIITA)
 
