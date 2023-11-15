@@ -70,7 +70,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * CP-NLS: "Nonlinear least squares updating of the canonical polyadic decomposition", in **EUSIPCO**, 2017, [Paper](https://ieeexplore.ieee.org/document/8081290), [PDF](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/papers/1570347577.pdf), [Code](https://www.tensorlabplus.net/papers/vandecappelle2017cpdu.html)
 
-* CP-stream: "Streaming tensor factorization for infinite data sources", in **SDM**, 2018, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.10), [PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.10), [Code](https://github.com/ShadenSmith/splatt)
+* CP-stream: "Streaming tensor factorization for infinite data sources", in **SDM**, 2018, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611975321.10), [PDF](https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.10), Code in [Toolbox](https://github.com/ShadenSmith/splatt)
 
 * InParTen: "Incremental PARAFAC decomposition for three-dimensional tensors using Apache Spark", in **ICWE**, 2019, [Paper](https://link.springer.com/chapter/10.1007/978-3-030-19274-7_5)
 
