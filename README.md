@@ -62,7 +62,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * SOAP: "Second-order optimization based adaptive PARAFAC decomposition of three-way tensors", in **Digital Signal Process.**, 2017, [Paper](https://www.sciencedirect.com/science/article/pii/S105120041730009X), [Code](https://drive.google.com/drive/folders/1x6PdEsr-1xDccm7titi5dQPLwgcKuOii)
 
-### [Block-Coordinate Descent (BCD)](#content) 
+### [Block-Coordinate Descent (BCD) Methods](#content) 
 #### [BCD + Adaptive Least-Squares Filters](#content) 
 
 * OLSTEC: "Fast online low-rank tensor subspace tracking by CP decomposition using recursive least squares from incomplete observations", in **NeuroComput.**, 2017,  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231218313584), [PDF](https://arxiv.org/pdf/1709.10276.pdf), [Code](https://github.com/hiroyuki-kasai/OLSTEC)
