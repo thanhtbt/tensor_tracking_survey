@@ -376,7 +376,7 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
 
 * Sensor Networks: [KIS 2014](https://link.springer.com/article/10.1007/s10115-014-0733-3), [TNSM 2016](https://ieeexplore.ieee.org/abstract/document/7536642), [DMKD 2018](https://link.springer.com/article/10.1007/s10618-018-0560-3)
 
-* Vidual anomaly detection: [TVCG 2017](https://ieeexplore.ieee.org/document/8022952)
+* Visual anomaly detection: [TVCG 2017](https://ieeexplore.ieee.org/document/8022952)
 
 * Others: See [Survey](https://www.sciencedirect.com/science/article/pii/S0950705116000472)
 
