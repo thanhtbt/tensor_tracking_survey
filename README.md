@@ -38,6 +38,7 @@ A list of up-to-date research papers on streaming tensor decomposition, tensor t
     + [Python](#python)
     + [R](#r)
     + [Julia](#julia)
+   * [Some Applications and Datasets](#applications-datasets)
 - [Citation](#citation)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
@@ -352,21 +353,34 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
 * iTensor, [Link](https://scipost.org/10.21468/SciPostPhysCodeb.4)
 
 ### [Some Applications and Time-Series Datasets](#content) 
+
 #### [Computer Vision](#\content)
-  * Video/visual tracking: [ICCV 2007](https://ieeexplore.ieee.org/document/4408950), [ICCV 2015](https://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w24/html/Sobral_Online_Stochastic_Tensor_ICCV_2015_paper.html), [TPAMI 2016](https://ieeexplore.ieee.org/document/7429797), [TSP 2022](https://ieeexplore.ieee.org/document/9866940), [TNNLS 2022](https://ieeexplore.ieee.org/abstract/document/9772051)
-  * Online video denoising: [ICCV 2017](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wen_Joint_Adaptive_Sparsity_ICCV_2017_paper.pdf),  [TIP 2018](https://ieeexplore.ieee.org/abstract/document/8438535)
-  * Segmentation and Classification: [TPAMI 2008](https://ieeexplore.ieee.org/abstract/document/4378389), [SIAM JMDS 2020](https://epubs.siam.org/doi/abs/10.1137/19M1257718)
-  * Video datasets: [Link-1](https://github.com/xiaobai1217/Awesome-Video-Datasets), [Link-2](https://paperswithcode.com/datasets?mod=videos), [Link-3](http://jacarini.dinf.usherbrooke.ca/)
 
- #### [NeuroScience](#\content)
- * Dynamic functional connectivity networks analysis: [TBE 2016](https://ieeexplore.ieee.org/abstract/document/7452353), [TSIPN 2017](https://ieeexplore.ieee.org/abstract/document/7852497), [Front. Neurosci. 2022](https://www.frontiersin.org/articles/10.3389/fnins.2022.861402/full)
- * Online EEG Completion and Analysis: [ISMICT 2018](https://ieeexplore.ieee.org/document/8573711), [TSP 2022](https://ieeexplore.ieee.org/document/9866940), [Patterns 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001046)
- * Datasets: [Link-1](https://github.com/meagmohit/EEG-Datasets), [Link-2](https://github.com/openlists/ElectrophysiologyData), [Link-3](https://www.erpwav), [Link-4](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html)
+* Video/visual tracking: [ICCV 2007](https://ieeexplore.ieee.org/document/4408950), [ICCV 2015](https://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w24/html/Sobral_Online_Stochastic_Tensor_ICCV_2015_paper.html), [TPAMI 2016](https://ieeexplore.ieee.org/document/7429797), [TSP 2022](https://ieeexplore.ieee.org/document/9866940), [TNNLS 2022](https://ieeexplore.ieee.org/abstract/document/9772051)
+  
+* Online video denoising: [ICCV 2017](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wen_Joint_Adaptive_Sparsity_ICCV_2017_paper.pdf),  [TIP 2018](https://ieeexplore.ieee.org/abstract/document/8438535)
 
- #### [Anomaly Detection](#\content)
+* Segmentation and Classification: [TPAMI 2008](https://ieeexplore.ieee.org/abstract/document/4378389), [SIAM JMDS 2020](https://epubs.siam.org/doi/abs/10.1137/19M1257718)
+
+* Video datasets: [Link-1](https://github.com/xiaobai1217/Awesome-Video-Datasets), [Link-2](https://paperswithcode.com/datasets?mod=videos), [Link-3](http://jacarini.dinf.usherbrooke.ca/)
+
+#### [NeuroScience](#\content)
+
+* Dynamic functional connectivity networks analysis: [TBE 2016](https://ieeexplore.ieee.org/abstract/document/7452353), [TSIPN 2017](https://ieeexplore.ieee.org/abstract/document/7852497), [Front. Neurosci. 2022](https://www.frontiersin.org/articles/10.3389/fnins.2022.861402/full)
+
+* Online EEG Completion and Analysis: [ISMICT 2018](https://ieeexplore.ieee.org/document/8573711), [TSP 2022](https://ieeexplore.ieee.org/document/9866940), [Patterns 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001046)
+
+* Datasets: [Link-1](https://github.com/meagmohit/EEG-Datasets), [Link-2](https://github.com/openlists/ElectrophysiologyData), [Link-3](https://www.erpwav), [Link-4](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html)
+
+#### [Anomaly Detection](#\content)
+
 * Sensor Networks: [KIS 2014](https://link.springer.com/article/10.1007/s10115-014-0733-3), [TNSM 2016](https://ieeexplore.ieee.org/abstract/document/7536642), [DMKD 2018](https://link.springer.com/article/10.1007/s10618-018-0560-3)
+
 * Vidual anomaly detection: [TVCG 2017](https://ieeexplore.ieee.org/document/8022952)
+
 * Others: See [Survey](https://www.sciencedirect.com/science/article/pii/S0950705116000472)
+
+
 ## Citation
 If you find this repository helpful for your work, please cite
 
