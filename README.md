@@ -243,7 +243,7 @@ Authors: Thanh Trung Le, Karim Abed-Meraim, Nguyen Linh Trung and Adel Hafiane
 
 * ITTD: "An incremental tensor-train decomposition for cyber-physical-social big data", in **IEEE Trans. Big Data**, 2018,  [Paper](https://ieeexplore.ieee.org/abstract/document/8449102), [PDF](https://www.researchgate.net/profile/Liu-Huazhong/publication/327298675_An_Incremental_Tensor-Train_Decomposition_for_Cyber-Physical-Social_Big_Data/links/5cc8e492a6fdcc1d49bbfe40/An-Incremental-Tensor-Train-Decomposition-for-Cyber-Physical-Social-Big-Data.pdf)
 
-* DTT: "DTT: A highly efficient distributed tensortrain decomposition method for IIoT big data", in **IEEE Trans. Ind. Inf**, 2021, [Paper](https://ieeexplore.ieee.org/document/8963751)
+* DTT: "DTT: A highly efficient distributed tensor train decomposition method for IIoT big data", in **IEEE Trans. Ind. Inf**, 2021, [Paper](https://ieeexplore.ieee.org/document/8963751)
 
 ### [Streaming Decomposition of Tensors in Non-Stationary Environments (i.e., TT-Cores Can Change Over Time)](#content) 
 
