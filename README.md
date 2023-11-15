@@ -360,7 +360,7 @@ big data analysis](https://ieeexplore.ieee.org/document/6879619)"*, in **IEEE Si
  #### [NeuroScience](#\content)
  * Dynamic functional connectivity networks analysis: [TBE 2016](https://ieeexplore.ieee.org/abstract/document/7452353), [TSIPN 2017](https://ieeexplore.ieee.org/abstract/document/7852497), [Front. Neurosci. 2022](https://www.frontiersin.org/articles/10.3389/fnins.2022.861402/full)
  * Online EEG Completion and Analysis: [ISMICT 2018](https://ieeexplore.ieee.org/document/8573711), [TSP 2022](https://ieeexplore.ieee.org/document/9866940), [Patterns 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001046)
- * Datasets: [EEG Link 1](https://github.com/meagmohit/EEG-Datasets), [WEPWAVELAB](https://www.erpwavelab.org/index.htm)
+ * Datasets: [Link-1](https://github.com/meagmohit/EEG-Datasets), [Link-2](https://github.com/openlists/ElectrophysiologyData), [Link-3](https://www.erpwavelab.org/index.htm)
 
   
 ## Citation
