@@ -136,6 +136,9 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
   
 * DisMASTD: "Dismastd: An efficient distributed multi-aspect streaming tensor decomposition", in **IEEE ICDE**, 2021, [Paper](https://ieeexplore.ieee.org/document/9458848), [PDF](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7127&context=sis_research)
 
+
+* GOCPT: "GOCPT: Generalized Online Canonical Polyadic Tensor Factorization and Completion", in **IJCAI**, 2022, [Paper](https://www.ijcai.org/proceedings/2022/0326.pdf), [PDF](https://arxiv.org/pdf/2205.03749.pdf), [Code](https://github.com/ycq091044/GOCPT)
+
 ### [Streaming PARAFAC2 Decomposition Methods](#content) 
 
 * SPADE: "SPADE: Streaming PARAFAC2 decomposition for large datasets", in **SDM**, 2020, [Paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.65), [PDF](https://madlab.cs.ucr.edu/papers/2020_SDM_SPADE.pdf), [Code](http://www.cs.ucr.edu/~egujr001/ucr/madlab/src/SPADE.zip)
