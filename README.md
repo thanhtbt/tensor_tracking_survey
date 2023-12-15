@@ -149,7 +149,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
   
 * DASH: "Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application", in **ACM SIGKDD**, 2023, [Paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599342), [PDF](https://arxiv.org/pdf/2305.18376.pdf), [Code](https://github.com/snudatalab/Dash)
 
-* tPFARAC2: "A Time-aware tensor decomposition for tracking evolving patterns", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2308.07126.pdf), [Code](https://github.com/cchatzis/tPARAFAC2)
+* tPARAFAC2: "A Time-aware tensor decomposition for tracking evolving patterns", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2308.07126.pdf), [Code](https://github.com/cchatzis/tPARAFAC2)
 
 ### [Others](#content) 
 
