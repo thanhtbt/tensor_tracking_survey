@@ -286,7 +286,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 * "Multi-Aspect Streaming Tensor Ring Completion for Dynamic Incremental Data", in **IEEE Signal Process. Lett.**, 2022, [Paper](https://ieeexplore.ieee.org/abstract/document/9996547)
 * OLSTR-SGD/RLS: "Online subspace learning and imputation by Tensor-Ring decomposition", in **Neural Netw.**, 2022, [Paper](https://www.sciencedirect.com/science/article/pii/S0893608022001976)
-* STRC & TRSSD: "Patch tracking-based streaming tensor ring completion for visual data recovery", in **IEEE Trans. Circuits Syst. Video Techn.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9828504), [PDF](https://arxiv.org/pdf/2105.14620.pdf)
+* STRC & TRSSD: "Patch tracking-based streaming tensor ring completion for visual data recovery", in **IEEE Trans. Circuits Syst. Video Techn.**, 2022, [Paper](https://ieeexplore.ieee.org/document/9828504), [PDF](https://arxiv.org/pdf/2105.14620.pdf), [Code](https://github.com/he1c/PTSTRC)
 * STR:  "Tracking Tensor Ring Decompositions of Streaming Tensors", in ArXiv, 2023, [Paper](https://arxiv.org/pdf/2307.00719.pdf)
 
 ## [Research Challenges, Open Problems, and Future Directions](#content) 
