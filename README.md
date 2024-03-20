@@ -293,7 +293,7 @@ Authors: [Thanh Trung Le](https://thanhtbt.github.io/), Karim Abed-Meraim, Nguye
 
 
 ## [Dynamic/Adaptive Coupled Tensor Decomposition](#content) 
-* "An Adaptive Algorithm for Tracking Third-Order Coupled Canonical Polyadic Decomposition", in **IEEE ICASSP**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10447395)
+* C-CPD-T: "An Adaptive Algorithm for Tracking Third-Order Coupled Canonical Polyadic Decomposition", in **IEEE ICASSP**, 2024, [Paper](https://ieeexplore.ieee.org/abstract/document/10447395)
 
 
 
